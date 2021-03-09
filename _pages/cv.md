@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Undergraduate in Computer Science, Shandong University, 2012
-* Master of Information Technology, The University of Sydney, Australia, 2018
 * Ph.D in Artificial Intelligence and Image Processing, The University of Sydney, Australia, 2021 (expected)
+* Master of Information Technology, The University of Sydney, Australia, 2018
+* Undergraduate in Computer Science, Shandong University, 2007
 
 Academic Awards
 ======
@@ -50,6 +50,30 @@ Work experience
   * Mainly responsible for the development of the video distribution system, include product management application, video transforming client, video uploading client. Supported the whole life-cycle of the project, ranging from video transforming, distributing to the exhibition.
 * 02/2008 - 09/2008: Software Developer in Beijing ZhiFang Tech Co., Ltd.,
   * Responsible for the development and integration of a communication module which is used in medical research and examination application, this communication module can retrieve testing data from medical instruments and translate these raw data to readable report, and then print it.
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Mentoring junior developers in IT industry (iQiYi.com)
+* Lead seven research projects and managed over 50 sudents with different culture background (Syndey Uni)
+
   
 Skills
 ======
@@ -107,26 +131,3 @@ Skills
 * Version Control
   * Tortoise SVN
   * Git
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Mentoring junior developers in IT industry (iQiYi.com)
-* Lead seven research projects and managed over 50 sudents with different culture background (Syndey Uni)
