@@ -22,22 +22,22 @@ About
 Education
 ======
 * The University of Sydney, Australia
- * Ph.D in Artificial Intelligence and Image Processing, 2008-2021 (expected)
- * Master of Information Technology, 2016-2018
+  * Ph.D in Artificial Intelligence and Image Processing, 2008-2021 (expected)
+  * Master of Information Technology, 2016-2018
 * Shandong University, China
- * Undergraduate in Computer Science, 2003-2007
+  * Undergraduate in Computer Science, 2003-2007
 
 Academic Awards
 ======
 * School of Computer Science, University of Sydney
- * Dean's List of Excellence in Academic Performance (09/2018 )
- * High Honour Roll in Digital Media Computing (05/2018 )
- * High Honour Roll in Research Project (05/2018 )
- * Summer Research Scholarship (11/2017)
- * Half-Fee scholarship (05/2017)
+  * Dean's List of Excellence in Academic Performance (09/2018 )
+  * High Honour Roll in Digital Media Computing (05/2018 )
+  * High Honour Roll in Research Project (05/2018 )
+  * Summer Research Scholarship (11/2017)
+  * Half-Fee scholarship (05/2017)
 * Ph.D. Scholarship
-* Engineering and Information Technologies Research Scholarship (04/2018)
-* University of Sydney International Scholarship (USydIS) (08/2018)
+  * Engineering and Information Technologies Research Scholarship (04/2018)
+  * University of Sydney International Scholarship (USydIS) (08/2018)
 
 Publications
 ======
