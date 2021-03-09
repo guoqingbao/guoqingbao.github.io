@@ -13,38 +13,31 @@ redirect_from:
 
 About
 ======
-Recent study and research experience:
+* Received Ph.D., half-fee and summer research scholarship from Sydney University. The achievement was recognized by the university and placed on the Deans' List of Academic Excellence. Successfully led seven group projects, four of them were top projects.
 
-Received Ph.D., half-fee and summer research scholarship from Sydney University. The achievement was recognized by the university and placed on the Deans' List of Academic Excellence. Successfully led seven group projects, four of them were top projects.
+* Currently working on research projects that have potentials to revolutionize diagnosis and treatment of severe diseases with the support of artificial intelligence.
 
-Currently working on research projects that have potentials to revolutionize diagnosis and treatment of severe diseases with the support of artificial intelligence.
-
-
-Past work experience:
-
-9 years' experience in design & development of the large-scale multimedia projects, ranging from video streaming, demuxing, transcoding, rendering to commercial software architecture design.
-
-Responsible for architecture design and development of a cross-platform video streaming system in iQiYi.com. Designed and implemented the universal video streaming model, the streaming architecture is stably running in hundreds of millions of mobile devices, PCs and smart TVs. It supported more than one billion video views per day successfully and stably and promoted more than 6% video view success rate in iQiYi platform since 2014.
-
-Designed the technical solution which can stream iQiYi's video & AD content in third-party platforms. With the help of this technical solution, China’s top smartphone maker XiaoMi invested 300 million US dollars in iQiYi for video content cooperation at the end of 2014.
-
-Implemented the human-machine interaction and video-on-demand solution for early-stage Internet TV (Smart TV) using Windows as the simulation platform. The pioneer design and solution has been the standard reference for many android streaming clients since 2012. The design and streaming solution was widely used by hundreds of millions of Smart TV/TVBox devices since 2013. 
+* 9 years' industry experience in design & development of the large-scale multimedia projects, ranging from video streaming, demuxing, transcoding, rendering to commercial software architecture design.
 
 Education
 ======
-* Undergraduate in Computer Science, Shandong University, 2007
-* Master of Information Technology, The University of Sydney, Australia, 2018
-* Ph.D in Artificial Intelligence and Image Processing, The University of Sydney, Australia, 2021 (expected)
+* The University of Sydney, Australia
+ * Ph.D in Artificial Intelligence and Image Processing, 2008-2021 (expected)
+ * Master of Information Technology, 2016-2018
+* Shandong University, China
+ * Undergraduate in Computer Science, 2003-2007
 
 Academic Awards
 ======
-* 09/2018 Dean's List of Excellence in Academic Performance, School of Computer Science, University of Sydney
-* 08/2018 Ph.D. Scholarship - University of Sydney International Scholarship (USydIS), University of Sydney
-* 05/2018 High Honour Roll in Digital Media Computing, School of Computer Science, University of Sydney
-* 05/2018 High Honour Roll in Research Project, School of Computer Science, University of Sydney
-* 04/2018 Ph.D. Scholarship - Engineering and Information Technologies Research Scholarship, University of Sydney
-* 11/2017 Summer Research Scholarship, School of Computer Science, University of Sydney
-* 05/2017 Half-Fee scholarship, School of Computer Science, University of Sydney
+* School of Computer Science, University of Sydney
+ * Dean's List of Excellence in Academic Performance (09/2018 )
+ * High Honour Roll in Digital Media Computing (05/2018 )
+ * High Honour Roll in Research Project (05/2018 )
+ * Summer Research Scholarship (11/2017)
+ * Half-Fee scholarship (05/2017)
+* Ph.D. Scholarship
+* Engineering and Information Technologies Research Scholarship (04/2018)
+* University of Sydney International Scholarship (USydIS) (08/2018)
 
 Publications
 ======
