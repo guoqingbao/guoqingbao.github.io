@@ -8,7 +8,7 @@ venue: 'The 16th International Conference on Control, Automation, Robotics and V
 paperurl: 'https://doi.org/10.1109/ICARCV50220.2020.9305369'
 citation: 'Guoqing Bao, Manuel B. Graeber, Xiuying Wang (2020). &quot;Depthwise Multiception Convolution for Reducing Network Parameters without Sacrificing Accuracy&quot; <i>International Conference on Control, Automation, Robotics and Vision</i> pp. 747-752, doi: 10.1109/ICARCV50220.2020.9305369'
 ---
-We proposed a new convolutional method to improve the performance of depthwise separable convolution Code:https://github.com/guoqingbao/Multiception
+We proposed a new convolutional method to improve the performance of depthwise separable convolution Code: [link](https://github.com/guoqingbao/Multiception)
 
 [Download paper here](https://doi.org/10.1109/ICARCV50220.2020.9305369)
 
