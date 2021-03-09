@@ -11,8 +11,28 @@ redirect_from:
 
 {% include base_path %}
 
+About
+======
+Recent study and research experience:
+
+Received Ph.D., half-fee and summer research scholarship from Sydney University. The achievement was recognized by the university and placed on the Deans' List of Academic Excellence. Successfully led seven group projects, four of them were top projects.
+
+Currently working on research projects that have potentials to revolutionize diagnosis and treatment of severe diseases with the support of artificial intelligence.
+
+
+Past work experience:
+
+9 years' experience in design & development of the large-scale multimedia projects, ranging from video streaming, demuxing, transcoding, rendering to commercial software architecture design.
+
+Responsible for architecture design and development of a cross-platform video streaming system in iQiYi.com. Designed and implemented the universal video streaming model, the streaming architecture is stably running in hundreds of millions of mobile devices, PCs and smart TVs. It supported more than one billion video views per day successfully and stably and promoted more than 6% video view success rate in iQiYi platform since 2014.
+
+Designed the technical solution which can stream iQiYi's video & AD content in third-party platforms. With the help of this technical solution, China’s top smartphone maker XiaoMi invested 300 million US dollars in iQiYi for video content cooperation at the end of 2014.
+
+Implemented the human-machine interaction and video-on-demand solution for early-stage Internet TV (Smart TV) using Windows as the simulation platform. The pioneer design and solution has been the standard reference for many android streaming clients since 2012. The design and streaming solution was widely used by hundreds of millions of Smart TV/TVBox devices since 2013. 
+
 Education
 ======
+* Undergraduate in Computer Science, Shandong University, 2007
 * Master of Information Technology, The University of Sydney, Australia, 2018
 * Ph.D in Artificial Intelligence and Image Processing, The University of Sydney, Australia, 2021 (expected)
 
