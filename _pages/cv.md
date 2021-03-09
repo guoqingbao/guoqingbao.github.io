@@ -44,7 +44,7 @@ Academic Awards
   * High Honour Roll in Research Project (05/2018 )
   * Summer Research Scholarship (11/2017)
   * Half-Fee scholarship (05/2017)
-* Ph.D. Scholarship
+* Ph.D. Scholarship, University of Sydney
   * Engineering and Information Technologies Research Scholarship (04/2018)
   * University of Sydney International Scholarship (USydIS) (08/2018)
 
