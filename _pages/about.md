@@ -26,14 +26,27 @@ Academic Awards
 * 11/2017 Summer Research Scholarship, School of Computer Science, University of Sydney
 * 05/2017 Half-Fee scholarship, School of Computer Science, University of Sydney
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Regular Reviewer
+======
+  * IEEE Journal of Biomedical and Health Informatics
+  * Briefings in Bioinformatics
+  * PLOS One
+  * International Conference on Control, Automation, Robotics and Vision
+
 Research Experience
 ======
 * 11/2018 – 07/2016: PhD Candidate & Research Assistant in School of Computer Science, The University of Sydney, 
   * Analysis of medical imaging data and genomic big data based on machine learning/deep learning. 
-  * 1) Design and implement machine learning models that can use medical big data for disease diagnosis. 
-  * 2) Write and publish high-quality scientific papers on computer vision, pattern recognition, machine learning, and translational medicine related areas. 
-  * 3) The machine learning models involved include but are not limited to: Support Vector Machine (SVM), Random Forests, Light GBM (Light Gradient Boosting Machine), Convolutional Neural Network (CNN), Generative Adversarial Network) etc. Machine learning and data analysis frameworks include PyTorch, Keras, TensorFlow, Sklearn, Numpy, Pandas, OpenCV, Matplotlib, etc.
-  * 4) Improve the performance of deep learning algorithms in medical image recognition and genomic data processing; research and improve computer vision algorithms (such as image detection, segmentation, registration, etc.) for pathology and CT image data analysis.
+  * Design and implement machine learning models that can use medical big data for disease diagnosis. 
+  * Write and publish high-quality scientific papers on computer vision, pattern recognition, machine learning, and translational medicine related areas. 
+  * The machine learning models involved include but are not limited to: Support Vector Machine (SVM), Random Forests, Light GBM (Light Gradient Boosting Machine), Convolutional Neural Network (CNN), Generative Adversarial Network) etc. Machine learning and data analysis frameworks include PyTorch, Keras, TensorFlow, Sklearn, Numpy, Pandas, OpenCV, Matplotlib, etc.
+  * Improve the performance of deep learning algorithms in medical image recognition and genomic data processing; research and improve computer vision algorithms (such as image detection, segmentation, registration, etc.) for pathology and CT image data analysis.
 
 Industry Work experience
 ======
@@ -49,12 +62,6 @@ Industry Work experience
   * Mainly responsible for the development of the video distribution system, include product management application, video transforming client, video uploading client. Supported the whole life-cycle of the project, ranging from video transforming, distributing to the exhibition.
 * 02/2008 - 09/2008: Software Developer in Beijing ZhiFang Tech Co., Ltd.,
   * Responsible for the development and integration of a communication module which is used in medical research and examination application, this communication module can retrieve testing data from medical instruments and translate these raw data to readable report, and then print it.
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
