@@ -30,14 +30,14 @@ Education
 Academic Awards
 ======
 * School of Computer Science, University of Sydney
-  * Dean's List of Excellence in Academic Performance (09/2018 )
-  * High Honour Roll in Digital Media Computing (05/2018 )
-  * High Honour Roll in Research Project (05/2018 )
-  * Summer Research Scholarship (11/2017)
-  * Half-Fee scholarship (05/2017)
+  * **Dean's List of Excellence in Academic Performance** (09/2018 )
+  * **High Honour Roll in Digital Media Computing** (05/2018 )
+  * **High Honour Roll in Research Project** (05/2018 )
+  * **Summer Research Scholarship** (11/2017)
+  * **Half-Fee scholarship** (05/2017)
 * Ph.D. Scholarship, University of Sydney
-  * Engineering and Information Technologies Research Scholarship (04/2018)
-  * University of Sydney International Scholarship (USydIS) (08/2018)
+  * **Engineering and Information Technologies Research Scholarship** (04/2018)
+  * **University of Sydney International Scholarship (USydIS)** (08/2018)
 
 Publications
 ======
