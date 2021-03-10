@@ -39,47 +39,71 @@ Education
 Academic Awards
 ======
 * School of Computer Science, University of Sydney
-  * Dean's List of Excellence in Academic Performance (09/2018 )
-  * High Honour Roll in Digital Media Computing (05/2018 )
-  * High Honour Roll in Research Project (05/2018 )
-  * Summer Research Scholarship (11/2017)
-  * Half-Fee scholarship (05/2017)
+  * **Dean's List of Excellence in Academic Performance** (09/2018)
+  * **High Honour Roll in Digital Media Computing** (05/2018)
+  * **High Honour Roll in Research Project** (05/2018)
+  * **Summer Research Scholarship** (11/2017)
+  * **Half-Fee scholarship** (05/2017)
 * Ph.D. Scholarship, University of Sydney
-  * Engineering and Information Technologies Research Scholarship (04/2018)
-  * University of Sydney International Scholarship (USydIS) (08/2018)
-
-Research experience
-======
-* 11/2018 – 07/2016: Research Assistant in School of Computer Science, The University of Sydney, 
-  * Analysis of medical imaging data and genomic big data based on machine learning/deep learning. 
-  * 1) Design and implement machine learning models that can use medical big data for disease diagnosis. 
-  * 2) Write and publish high-quality scientific papers on computer vision, pattern recognition, machine learning, and translational medicine related areas. 
-  * 3) The machine learning models involved include but are not limited to: Support Vector Machine (SVM), Random Forests, Light GBM (Light Gradient Boosting Machine), Convolutional Neural Network (CNN), Generative Adversarial Network) etc. Machine learning and data analysis frameworks include PyTorch, Keras, TensorFlow, Sklearn, Numpy, Pandas, OpenCV, Matplotlib, etc.
-  * 4) Improve the performance of deep learning algorithms in medical image recognition and genomic data processing; research and improve computer vision algorithms (such as image detection, segmentation, registration, etc.) for pathology and CT image data analysis.
-
-Work experience
-======
-* 11/2011 – 07/2016: Senior Software Engineer in iQiYi.com
-  * Responsible for architecture design and development of the cross-platform video streaming architecture; design and implement the universal video streaming model; in charge of technical design, cooperation and communication with third parties, like XiaoMi, Lenovo, Huawei, etc.
-  * Designed and implemented a universal and cross-platform video streaming architecture.
-  * Designed the technical solutions that can stream iQiYi’s video and AD content on third party platforms.
-
-* 02/2011 - 09/2011: Software Engineer in SuperD
-  * Responsible for design and development of the glasses-free 3D video client, include 3D video synthesis, 3D video renderer module, video transforming module.
-  * Software design and implementation of the first commercial naked-eye 3D video player (client).
-  * GPU synthesis and rendering of 3D video (left-right and up-down format of 3D videos).
-
-* 09/2008 - 02/2011: Software Developer in Vale Internet (Beijing) Co., Ltd.
-  * Mainly responsible for the development of the video distribution system, include product management application, video transforming client, video uploading client. Supported the whole life-cycle of the project, ranging from video transforming, distributing to the exhibition.
-* 02/2008 - 09/2008: Software Developer in Beijing ZhiFang Tech Co., Ltd.,
-  * Responsible for the development and integration of a communication module which is used in medical research and examination application, this communication module can retrieve testing data from medical instruments and translate these raw data to readable report, and then print it.
+  * **Engineering and Information Technologies Research Scholarship** (04/2018)
+  * **University of Sydney International Scholarship (USydIS)** (08/2018)
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Research Experience
+======
+* **PhD Candidate & Research Assistant** in School of Computer Science, The University of Sydney (04/2018 – Present)
+  * Analysis of medical imaging data and genomic big data based on machine learning/deep learning. 
+  * Design and implement machine learning models that can use medical big data for disease diagnosis. 
+  * Write and publish high-quality scientific papers on computer vision, pattern recognition, machine learning, and translational medicine related areas. 
+  * The machine learning models involved include but are not limited to: Support Vector Machine (SVM), Random Forests, Light GBM (Light Gradient Boosting Machine), Convolutional Neural Network (CNN), Generative Adversarial Network) etc. Machine learning and data analysis frameworks include PyTorch, Keras, TensorFlow, Sklearn, Numpy, Pandas, OpenCV, Matplotlib, etc.
+  * Improve the performance of deep learning algorithms in medical image recognition and genomic data processing; research and improve computer vision algorithms (such as image detection, segmentation, registration, etc.) for pathology and CT image data analysis.
+
+Industry Work experience
+======
+* **Senior Software Engineer** in iQiYi.com (11/2011 – 07/2016)
+  * Responsible for architecture design and development of the cross-platform video streaming architecture; design and implement the universal video streaming model; in charge of technical design, cooperation and communication with third parties, like XiaoMi, Lenovo, Huawei, etc.
+  * Designed and implemented a universal and cross-platform video streaming architecture.
+  * Designed the technical solutions that can stream iQiYi’s video and AD content on third party platforms.
+* **Software Engineer** in SuperD (02/2011 - 09/2011)
+  * Responsible for design and development of the glasses-free 3D video client, include 3D video synthesis, 3D video renderer module, video transforming module.
+  * Software design and implementation of the first commercial naked-eye 3D video player (client).
+  * GPU synthesis and rendering of 3D video (left-right and up-down format of 3D videos).
+* **Software Developer** in Vale Internet (Beijing) Co., Ltd. (09/2008 - 02/2011)
+  * Mainly responsible for the development of the video distribution system, include product management application, video transforming client, video uploading client. Supported the whole life-cycle of the project, ranging from video transforming, distributing to the exhibition.
+* **Software Developer** in Beijing ZhiFang Tech Co., Ltd. (02/2008 - 09/2008)
+  * Responsible for the development and integration of a communication module which is used in medical research and examination application, this communication module can retrieve testing data from medical instruments and translate these raw data to readable report, and then print it.
   
+Open-source Projects
+======
+* **Pancancer Survival Analysis Framework**
+  * We proposed a machine learning powered pipeline for survival analysis of different types of cancers based on gene expression
+  * Code: [https://github.com/guoqingbao/PanCancerLncRNA](https://github.com/guoqingbao/PanCancerLncRNA)
+  * Paper: [https://ieeexplore.ieee.org/document/9209037](https://ieeexplore.ieee.org/document/9209037)
+* **Multiception**
+  * A novel convolutional method that designed to improve the performance of depthwise separable convolution
+  * Code: [https://github.com/guoqingbao/Multiception](https://github.com/guoqingbao/Multiception)
+  * Presentation: [https://cloudstor.aarnet.edu.au/plus/s/vcmh8wLXVDtsZKQ](https://cloudstor.aarnet.edu.au/plus/s/vcmh8wLXVDtsZKQ)
+  * Paper: [https://ieeexplore.ieee.org/document/9305369](https://ieeexplore.ieee.org/document/9305369)
+* **PathoFusion**
+  * An AI framework for automated detection of cancerous features in whole-slide histopathology images and mapping with immunohistochemical data in adjacent tissue sections
+  * Code: [https://github.com/guoqingbao/Pathofusion](https://github.com/guoqingbao/Pathofusion)
+  * Video demo: [https://www.youtube.com/watch?v=NXN6MpribTU](https://www.youtube.com/watch?v=NXN6MpribTU)
+  * Presentation of core method: [https://cloudstor.aarnet.edu.au/plus/s/trQ3fL6acH345Ec](https://cloudstor.aarnet.edu.au/plus/s/trQ3fL6acH345Ec)
+  * Papper for core method: [https://ieeexplore.ieee.org/document/9305369](https://ieeexplore.ieee.org/document/9305369)
+  * Paper for application: [https://www.mdpi.com/2072-6694/13/4/617](https://www.mdpi.com/2072-6694/13/4/617)
+* **PathoLabelling**
+  * As a part of PathoFusion system, patholabelling enables the researchers and clinical experts marking the histopathology images for training AI model in recognition of malignant structures. The website provide functions to speed up traditional microscopic diagnostic workflow by overlaying the detected heatmaps on top of whole-slide tissue sections.
+  * Code: [https://github.com/guoqingbao/Patholabelling](https://github.com/guoqingbao/Patholabelling)
+  * Video demo: [https://cloudstor.aarnet.edu.au/plus/s/JSASsezqvrB9sgA](https://cloudstor.aarnet.edu.au/plus/s/JSASsezqvrB9sgA)
+* **COVID-MTL**
+  * A multitask learning framework for detection and severity assessment of COVID-19
+  * Code: Comming soon...
+    
 Talks
 ======
   <ul>{% for post in site.talks %}

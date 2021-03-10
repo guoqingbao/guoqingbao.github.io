@@ -57,18 +57,18 @@ Open-source Projects
   * Presentation: [https://cloudstor.aarnet.edu.au/plus/s/vcmh8wLXVDtsZKQ](https://cloudstor.aarnet.edu.au/plus/s/vcmh8wLXVDtsZKQ)
   * Paper: [https://ieeexplore.ieee.org/document/9305369](https://ieeexplore.ieee.org/document/9305369)
 * **PathoFusion**
-  * Description: An AI framework for automated detection of cancerous features in whole-slide histopathology images and mapping with immunohistochemical data in adjacent tissue sections
+  * An AI framework for automated detection of cancerous features in whole-slide histopathology images and mapping with immunohistochemical data in adjacent tissue sections
   * Code: [https://github.com/guoqingbao/Pathofusion](https://github.com/guoqingbao/Pathofusion)
   * Video demo: [https://www.youtube.com/watch?v=NXN6MpribTU](https://www.youtube.com/watch?v=NXN6MpribTU)
   * Presentation of core method: [https://cloudstor.aarnet.edu.au/plus/s/trQ3fL6acH345Ec](https://cloudstor.aarnet.edu.au/plus/s/trQ3fL6acH345Ec)
   * Papper for core method: [https://ieeexplore.ieee.org/document/9305369](https://ieeexplore.ieee.org/document/9305369)
   * Paper for application: [https://www.mdpi.com/2072-6694/13/4/617](https://www.mdpi.com/2072-6694/13/4/617)
 * **PathoLabelling**
-  * Description: As a part of PathoFusion system, patholabelling enables the researchers and clinical experts marking the histopathology images for training AI model in recognition of malignant structures. The website provide functions to speed up traditional microscopic diagnostic workflow by overlaying the detected heatmaps on top of whole-slide tissue sections.
+  * As a part of PathoFusion system, patholabelling enables the researchers and clinical experts marking the histopathology images for training AI model in recognition of malignant structures. The website provide functions to speed up traditional microscopic diagnostic workflow by overlaying the detected heatmaps on top of whole-slide tissue sections.
   * Code: [https://github.com/guoqingbao/Patholabelling](https://github.com/guoqingbao/Patholabelling)
   * Video demo: [https://cloudstor.aarnet.edu.au/plus/s/JSASsezqvrB9sgA](https://cloudstor.aarnet.edu.au/plus/s/JSASsezqvrB9sgA)
 * **COVID-MTL**
-  * Description: A multitask learning framework for detection and severity assessment of COVID-19
+  * A multitask learning framework for detection and severity assessment of COVID-19
   * Code: Comming soon...
 
 Regular Reviewer
