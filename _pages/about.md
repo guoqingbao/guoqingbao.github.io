@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Profiles for Guoqing Bao"
+title: "Guoqing's Profiles"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,24 +15,24 @@ About
 ======
 * Received Ph.D., half-fee and summer research scholarship from Sydney University. The achievement was recognized by the university and placed on the Deans' List of Academic Excellence. Successfully led seven group projects, four of them were top projects.
 
-* Currently working on research projects that have potentials to revolutionize diagnosis and treatment of severe diseases with the support of artificial intelligence.
+* Four years' full-time research experience in computer vision, artificial intelligence and medical informatics, and additional nine years' industry work experience in development and architecture design of large-scale commercial software projects.
 
-* 9 years' industry experience in design & development of the large-scale multimedia projects, ranging from video streaming, demuxing, transcoding, rendering to commercial software architecture design.
+* Currently working on research projects that have potentials to revolutionize diagnosis and treatment of severe diseases with the support of machine learning.
 
 Education
 ======
-* **The University of Sydney**, Australia
-  * **Ph.D** in Artificial Intelligence and Image Processing, 2008-2021 (expected)
-  * **Master** of Information Technology, 2016-2018
-* **Shandong University**, China
+* The University of Sydney, Australia
+  * Ph.D in Artificial Intelligence and Image Processing, 2008-2021 (expected)
+  * Master of Information Technology, 2016-2018
+* Shandong University, China
   * Undergraduate in Computer Science, 2003-2007
 
 Academic Awards
 ======
 * School of Computer Science, University of Sydney
-  * **Dean's List of Excellence in Academic Performance** (09/2018 )
-  * **High Honour Roll in Digital Media Computing** (05/2018 )
-  * **High Honour Roll in Research Project** (05/2018 )
+  * **Dean's List of Excellence in Academic Performance** (09/2018)
+  * **High Honour Roll in Digital Media Computing** (05/2018)
+  * **High Honour Roll in Research Project** (05/2018)
   * **Summer Research Scholarship** (11/2017)
   * **Half-Fee scholarship** (05/2017)
 * Ph.D. Scholarship, University of Sydney
@@ -44,6 +44,32 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Open-source Projects
+======
+* **Pancancer Survival Analysis Framework**
+  * We proposed a machine learning powered pipeline for survival analysis of different types of cancers based on gene expression
+  * Code: [https://github.com/guoqingbao/PanCancerLncRNA](https://github.com/guoqingbao/PanCancerLncRNA)
+  * Paper: [https://ieeexplore.ieee.org/document/9209037](https://ieeexplore.ieee.org/document/9209037)
+* **Multiception**
+  * A novel convolutional method that designed to improve the performance of depthwise separable convolution
+  * Code: [https://github.com/guoqingbao/Multiception](https://github.com/guoqingbao/Multiception)
+  * Presentation: [https://cloudstor.aarnet.edu.au/plus/s/vcmh8wLXVDtsZKQ](https://cloudstor.aarnet.edu.au/plus/s/vcmh8wLXVDtsZKQ)
+  * Paper: [https://ieeexplore.ieee.org/document/9305369](https://ieeexplore.ieee.org/document/9305369)
+* **PathoFusion**
+  * Description: An AI framework for automated detection of cancerous features in whole-slide histopathology images and mapping with immunohistochemical data in adjacent tissue sections
+  * Code: [https://github.com/guoqingbao/Pathofusion](https://github.com/guoqingbao/Pathofusion)
+  * Video demo: [https://www.youtube.com/watch?v=NXN6MpribTU](https://www.youtube.com/watch?v=NXN6MpribTU)
+  * Presentation of core method: [https://cloudstor.aarnet.edu.au/plus/s/trQ3fL6acH345Ec](https://cloudstor.aarnet.edu.au/plus/s/trQ3fL6acH345Ec)
+  * Papper for core method: [https://ieeexplore.ieee.org/document/9305369](https://ieeexplore.ieee.org/document/9305369)
+  * Paper for application: [https://www.mdpi.com/2072-6694/13/4/617](https://www.mdpi.com/2072-6694/13/4/617)
+* **PathoLabelling**
+  * Description: As a part of PathoFusion system, patholabelling enables the researchers and clinical experts marking the histopathology images for training AI model in recognition of malignant structures. The website provide functions to speed up traditional microscopic diagnostic workflow by overlaying the detected heatmaps on top of whole-slide tissue sections.
+  * Code: [https://github.com/guoqingbao/Patholabelling](https://github.com/guoqingbao/Patholabelling)
+  * Video demo: [https://cloudstor.aarnet.edu.au/plus/s/JSASsezqvrB9sgA](https://cloudstor.aarnet.edu.au/plus/s/JSASsezqvrB9sgA)
+* **COVID-MTL**
+  * Description: A multitask learning framework for detection and severity assessment of COVID-19
+  * Code: Comming soon...
 
 Regular Reviewer
 ======
