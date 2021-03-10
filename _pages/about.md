@@ -21,10 +21,10 @@ About
 
 Education
 ======
-* The University of Sydney, Australia
-  * Ph.D in Artificial Intelligence and Image Processing, 2008-2021 (expected)
-  * Master of Information Technology, 2016-2018
-* Shandong University, China
+* **The University of Sydney**, Australia
+  * **Ph.D** in Artificial Intelligence and Image Processing, 2008-2021 (expected)
+  * **Master** of Information Technology, 2016-2018
+* **Shandong University**, China
   * Undergraduate in Computer Science, 2003-2007
 
 Academic Awards
@@ -54,7 +54,7 @@ Regular Reviewer
 
 Research Experience
 ======
-* 11/2018 – 07/2016: PhD Candidate & Research Assistant in School of Computer Science, The University of Sydney, 
+* **PhD Candidate & Research Assistant** in School of Computer Science, The University of Sydney (04/2018 – Present)
   * Analysis of medical imaging data and genomic big data based on machine learning/deep learning. 
   * Design and implement machine learning models that can use medical big data for disease diagnosis. 
   * Write and publish high-quality scientific papers on computer vision, pattern recognition, machine learning, and translational medicine related areas. 
@@ -63,17 +63,17 @@ Research Experience
 
 Industry Work experience
 ======
-* 11/2011 – 07/2016: Senior Software Engineer in iQiYi.com
+* **Senior Software Engineer** in iQiYi.com (11/2011 – 07/2016)
   * Responsible for architecture design and development of the cross-platform video streaming architecture; design and implement the universal video streaming model; in charge of technical design, cooperation and communication with third parties, like XiaoMi, Lenovo, Huawei, etc.
   * Designed and implemented a universal and cross-platform video streaming architecture.
   * Designed the technical solutions that can stream iQiYi’s video and AD content on third party platforms.
-* 02/2011 - 09/2011: Software Engineer in SuperD
+* **Software Engineer** in SuperD (02/2011 - 09/2011)
   * Responsible for design and development of the glasses-free 3D video client, include 3D video synthesis, 3D video renderer module, video transforming module.
   * Software design and implementation of the first commercial naked-eye 3D video player (client).
   * GPU synthesis and rendering of 3D video (left-right and up-down format of 3D videos).
-* 09/2008 - 02/2011: Software Developer in Vale Internet (Beijing) Co., Ltd.
+* **Software Developer** in Vale Internet (Beijing) Co., Ltd. (09/2008 - 02/2011)
   * Mainly responsible for the development of the video distribution system, include product management application, video transforming client, video uploading client. Supported the whole life-cycle of the project, ranging from video transforming, distributing to the exhibition.
-* 02/2008 - 09/2008: Software Developer in Beijing ZhiFang Tech Co., Ltd.,
+* **Software Developer** in Beijing ZhiFang Tech Co., Ltd. (02/2008 - 09/2008)
   * Responsible for the development and integration of a communication module which is used in medical research and examination application, this communication module can retrieve testing data from medical instruments and translate these raw data to readable report, and then print it.
   
 Talks
