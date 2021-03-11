@@ -57,11 +57,11 @@ Publications
 Research Experience
 ======
 * **PhD Candidate & Research Assistant** in School of Computer Science, The University of Sydney (04/2018 – Present)
-  * Analysis of medical imaging data and genomic big data based on machine learning/deep learning. 
-  * Design and implement machine learning models that can use medical big data for disease diagnosis. 
+  * Analyses medical imaging data and genomic big data based on machine learning/deep learning. 
+  * Design and implement machine learning models that can harness medical big data for disease diagnosis. 
   * Write and publish high-quality scientific papers on computer vision, pattern recognition, machine learning, and translational medicine related areas. 
-  * The machine learning models involved include but are not limited to: Support Vector Machine (SVM), Random Forests, Light GBM (Light Gradient Boosting Machine), Convolutional Neural Network (CNN), Generative Adversarial Network) etc. Machine learning and data analysis frameworks include PyTorch, Keras, TensorFlow, Sklearn, Numpy, Pandas, OpenCV, Matplotlib, etc.
-  * Improve the performance of deep learning algorithms in medical image recognition and genomic data processing; research and improve computer vision algorithms (such as image detection, segmentation, registration, etc.) for pathology and CT image data analysis.
+  * Improve the performance of deep learning algorithms in medical image recognition and genomic data processing.
+  * Research and improve computer vision algorithms (such as image detection, segmentation, registration, etc.) for pathology and CT image data analysis.
 
 Industry Work experience
 ======

@@ -81,18 +81,21 @@ Regular Reviewer
 Research Experience
 ======
 * **PhD Candidate & Research Assistant** in School of Computer Science, The University of Sydney (04/2018 – Present)
-  * Analysis of medical imaging data and genomic big data based on machine learning/deep learning. 
-  * Design and implement machine learning models that can use medical big data for disease diagnosis. 
+  * Analyses medical imaging data and genomic big data based on machine learning/deep learning. 
+  * Design and implement machine learning models that can harness medical big data for disease diagnosis. 
   * Write and publish high-quality scientific papers on computer vision, pattern recognition, machine learning, and translational medicine related areas. 
-  * The machine learning models involved include but are not limited to: Support Vector Machine (SVM), Random Forests, Light GBM (Light Gradient Boosting Machine), Convolutional Neural Network (CNN), Generative Adversarial Network) etc. Machine learning and data analysis frameworks include PyTorch, Keras, TensorFlow, Sklearn, Numpy, Pandas, OpenCV, Matplotlib, etc.
-  * Improve the performance of deep learning algorithms in medical image recognition and genomic data processing; research and improve computer vision algorithms (such as image detection, segmentation, registration, etc.) for pathology and CT image data analysis.
+  * Improve the performance of deep learning algorithms in medical image recognition and genomic data processing.
+  * Research and improve computer vision algorithms (such as image detection, segmentation, registration, etc.) for pathology and CT image data analysis.
 
 Industry Work experience
 ======
 * **Senior Software Engineer** in iQiYi.com (11/2011 – 07/2016)
-  * Responsible for architecture design and development of the cross-platform video streaming architecture; design and implement the universal video streaming model; in charge of technical design, cooperation and communication with third parties, like XiaoMi, Lenovo, Huawei, etc.
-  * Designed and implemented a universal and cross-platform video streaming architecture.
-  * Designed the technical solutions that can stream iQiYi’s video and AD content on third party platforms.
+  * Architecture design and development of a cross-platform video streaming kernel
+  * Design and implementation of a universal video streaming model which has high extensibility and reliability
+  * Responsible for video client integration of iQiYi & PPS in video streaming
+  * Research, architecture design and development of technical solutions for iQiYi-XiaoMi cooperation
+  * Research and exploration of the video streaming solutions for early-stage internet TV
+  * Implementation of the human-machine interaction and video-on-demand solution for early-stage internet TV.
 * **Software Engineer** in SuperD (02/2011 - 09/2011)
   * Responsible for design and development of the glasses-free 3D video client, include 3D video synthesis, 3D video renderer module, video transforming module.
   * Software design and implementation of the first commercial naked-eye 3D video player (client).
