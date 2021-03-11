@@ -11,3 +11,6 @@ citation: '<b>Guoqing Bao</b>, Chaojie Zheng, Panli Li, Hui Cui, Xiuying Wang, S
 The measurement of residual thyroid tissue after thyroidectomy is crucial for the precise quantification of thyroid cancer treatment. Accurate residual thyroid tissue segmentation from CT images is challenging due to the indistinct tissue boundary. We propose a vote-in & vote-out region propagation model for residual thyroid tissue segmentation which incorporates global and local constraints and two voting strategies. The constraints were initially estimated from the given seeds and adaptively adjusted during the propagation process. The voting strategies were developed to decrease the opportunities of merging unexpected voxels around the uncertain boundaries. The experiment results over clinical patient studies demonstrated that the proposed method significantly improved the segmentation accuracy in terms of spatial overlap and shape similarity. Our method achieved an average Volume Overlap Error of 14.44±7.55 %, Relative Volume Difference of 9.42±20.31 %, Average Surface Distance of 0.12±0.05 mm and Maximum Surface Distance of 1.34±0.62 mm, with an average computation time of 2.68 seconds.
 
 [Access paper here](https://ieeexplore.ieee.org/document/8227384)
+
+
+
