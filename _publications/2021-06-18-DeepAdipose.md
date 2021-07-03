@@ -10,6 +10,6 @@ citation: 'Juan Shi and <b>Guoqing Bao (co-first author)</b> et al., (2021). &qu
 ---
 We proposed a deep learning based framework for evaluation of metabolic disorders and surgery-induced weight loss effects using CT texture features extracted from human CT visceral.
 
-Full-text paper from The Lancet: https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(21)00264-4/fulltext
+Corresponding full-text paper from The Lancet: [https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(21)00264-4/fulltext](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(21)00264-4/fulltext) 
 
 Open-source Code in GitHub: [link](https://github.com/guoqingbao/DeepAdipose).
