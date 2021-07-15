@@ -37,6 +37,7 @@ Academic Awards
   * **Half-Fee scholarship** (05/2017)
 * Ph.D. Scholarship, University of Sydney
   * **Engineering and Information Technologies Research Scholarship** (04/2018)
+  * **Postgraduate Research Supplementary Scholarship** (08/2018) 
   * **University of Sydney International Scholarship (USydIS)** (08/2018)
 
 Publications
@@ -70,6 +71,7 @@ Open-source Projects
 * **DeepAdipose**
   * We proposed a deep learning based framework for evaluation of metabolic disorders and surgery-induced weight loss effects using CT texture features extracted from human visceral.
   * Code: [https://github.com/guoqingbao/DeepAdipose](https://github.com/guoqingbao/DeepAdipose)
+  * Paper: [https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(21)00264-4/fulltext](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(21)00264-4/fulltext) 
 * **COVID-MTL**
   * A multitask learning framework for detection and severity assessment of COVID-19
   * Code: Comming soon...
