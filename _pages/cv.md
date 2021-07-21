@@ -64,6 +64,14 @@ Research Experience
   * Improve the performance of deep learning algorithms in medical image recognition and genomic data processing.
   * Research and improve computer vision algorithms (such as image detection, segmentation, registration, etc.) for pathology and CT image data analysis.
 
+Regular Reviewer for
+======
+  * Pattern Recognition
+  * IEEE Journal of Biomedical and Health Informatics
+  * Briefings in Bioinformatics
+  * PLOS One
+  * International Conference on Control, Automation, Robotics and Vision
+ 
 Industry Work experience
 ======
 * **Senior Software Engineer** in iQiYi.com (11/2011 – 07/2016)
