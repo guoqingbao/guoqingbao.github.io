@@ -76,8 +76,9 @@ Open-source Projects
   * A multitask learning framework for detection and severity assessment of COVID-19
   * Code: Comming soon...
 
-Regular Reviewer
+Regular Reviewer for
 ======
+  * Pattern Recognition
   * IEEE Journal of Biomedical and Health Informatics
   * Briefings in Bioinformatics
   * PLOS One
