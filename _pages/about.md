@@ -13,11 +13,27 @@ redirect_from:
 
 About
 ======
-* Received Ph.D., half-fee and summer research scholarship from Sydney University. The achievement was recognized by the university and placed on the Deans' List of Academic Excellence. Successfully led seven group projects, four of them were top projects.
 
-* Four years' full-time research experience in computer vision, artificial intelligence and medical informatics, and additional nine years' industry work experience in development and architecture design of large-scale commercial software projects.
+* Having both intensive university research and software engineering work experience, which enables me to fast prototyping and commercially implementing novel ideas.
+
+* Four years' full-time research experience in computer vision, artificial intelligence and medical informatics, and additional nine years' industry work experience as a senior/software engineer in development and architecture design of large-scale commercial software projects.
 
 * Currently working on research projects that have potentials to revolutionize diagnosis and treatment of severe diseases with the support of machine learning.
+
+* Academic and industry achievements (2008-2021):
+
+  * 2016-2021:
+
+  * Achieved high academic merit after reentering school, including high honor rolls, half-fee, summer research, dean’s list, Ph.D., and postgraduate supplementary scholarships from the University of Sydney as a Master's and PhD student. Published high quality scientific papers in areas of machine learning, pattern recognition and translational medicine in IEEE, Cancers, and Lancet family journals.
+
+  * 2008-2016:
+
+  * Responsible for architecture design and development of a cross-platform video streaming system in iQiYi.com.  Designed and implemented the universal video streaming model, the streaming architecture is stably running in hundreds of millions of mobile devices, PCs and smart TVs. It supported more than one billion video views per day successfully and stably and promoted more than 6% video view success rate in iQiYi platform since 2014.
+
+  * Designed the technical solution which can stream iQiYi's video & AD content in third-party platforms. With the help of this technical solution, China’s top smartphone maker XiaoMi invested 300 million US dollars in iQiYi for video content cooperation at the end of 2014.
+
+  * Implemented the human-machine interaction and video-on-demand solution for early-stage Internet TV (Smart TV) using Windows as the simulation platform. The pioneer design and solution has been the standard reference for many android streaming clients since 2012. The design and streaming solution was widely used by hundreds of millions of Smart TV/TVBox devices since 2013.
+
 
 Education
 ======
