@@ -89,6 +89,10 @@ Industry Work experience
   
 Open-source Projects
 ======
+* **COVID-MTL**
+  * A multitask learning framework for diagnosis and severity assessment of COVID-19
+  * Code: https://github.com/guoqingbao/COVID-MTL
+  * Paper: [https://www.sciencedirect.com/science/article/pii/S0031320321006750](https://www.sciencedirect.com/science/article/pii/S0031320321006750)
 * **Pancancer Survival Analysis Framework**
   * We proposed a machine learning powered pipeline for survival analysis of different types of cancers based on gene expression
   * Code: [https://github.com/guoqingbao/PanCancerLncRNA](https://github.com/guoqingbao/PanCancerLncRNA)
@@ -113,10 +117,8 @@ Open-source Projects
   * We proposed a deep learning based framework for evaluation of metabolic disorders and surgery-induced weight loss effects using CT texture features extracted from human visceral.
   * Code: [https://github.com/guoqingbao/DeepAdipose](https://github.com/guoqingbao/DeepAdipose)
   * Paper: [https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(21)00264-4/fulltext](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(21)00264-4/fulltext) 
-* **COVID-MTL**
-  * A multitask learning framework for detection and severity assessment of COVID-19
-  * Code: Comming soon...
-    
+
+ 
 Talks
 ======
   <ul>{% for post in site.talks %}
