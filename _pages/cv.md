@@ -91,7 +91,7 @@ Open-source Projects
 ======
 * **COVID-MTL**
   * A multitask learning framework for diagnosis and severity assessment of COVID-19
-  * Code: https://github.com/guoqingbao/COVID-MTL
+  * Code: [https://github.com/guoqingbao/COVID-MTL](https://github.com/guoqingbao/COVID-MTL)
   * Paper: [https://www.sciencedirect.com/science/article/pii/S0031320321006750](https://www.sciencedirect.com/science/article/pii/S0031320321006750)
 * **Pancancer Survival Analysis Framework**
   * We proposed a machine learning powered pipeline for survival analysis of different types of cancers based on gene expression
