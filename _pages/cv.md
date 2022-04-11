@@ -11,14 +11,14 @@ redirect_from:
 
 About
 ======
-Recent study and research experience:
+Current: Research in AI framework optimization & computer vision
+
+Oversea study and research experience (2016-2022, Sydney University):
 
 Received Ph.D., half-fee and summer research scholarship from Sydney University. The achievement was recognized by the university and placed on the Deans' List of Academic Excellence. Successfully led seven group projects, four of them were top projects.
 
-Currently working on research projects that have potentials to revolutionize diagnosis and treatment of severe diseases with the support of artificial intelligence.
 
-
-Past work experience:
+Past work experience (2008-2016):
 
 9 years' industry experience in design & development of the large-scale multimedia projects, ranging from video streaming, demuxing, transcoding, rendering to commercial software architecture design.
 
@@ -31,7 +31,7 @@ Implemented the human-machine interaction and video-on-demand solution for early
 Education
 ======
 * The University of Sydney, Australia
-  * Ph.D (Artificial Intelligence and Image Processing, Theis under submission), 2018-2021
+  * Ph.D (Artificial Intelligence and Image Processing), 2018.07-2022.04
   * Master of Information Technology, 2016-2018
 * Shandong University, China
   * Undergraduate in Computer Science, 2003-2007
@@ -55,9 +55,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Research Experience
+Academic Research Experience
 ======
-* **PhD Candidate & Research Assistant** in School of Computer Science, The University of Sydney (04/2018 – Present)
+* **PhD Candidate & Research Assistant** in School of Computer Science, The University of Sydney (04/2018 – 2022.04)
   * Analyses medical imaging data and genomic big data based on machine learning/deep learning. 
   * Design and implement machine learning models that can harness medical big data for disease diagnosis. 
   * Write and publish high-quality scientific papers on computer vision, pattern recognition, machine learning, and translational medicine related areas. 
@@ -74,6 +74,8 @@ Regular Reviewer for
  
 Industry Work experience
 ======
+* **Senior Staff Research Scientist** in Enflame (04/2022 – Present)
+  * Research in AI framework optimization and computer vision
 * **Senior Software Engineer** in iQiYi.com (11/2011 – 07/2016)
   * Responsible for architecture design and development of the cross-platform video streaming architecture; design and implement the universal video streaming model; in charge of technical design, cooperation and communication with third parties, like XiaoMi, Lenovo, Huawei, etc.
   * Designed and implemented a universal and cross-platform video streaming architecture.
