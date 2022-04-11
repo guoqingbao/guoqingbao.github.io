@@ -13,18 +13,17 @@ redirect_from:
 
 About
 ======
+* From 2022, work as a Senior Staff Researcher in AI framework optimization and computer vision
 
 * Having both intensive university research and software engineering work experience, which enables me to fast prototyping and commercially implementing novel ideas.
 
 * Four years' full-time research experience in computer vision, artificial intelligence and medical informatics, and additional nine years' industry work experience as a senior/software engineer in development and architecture design of large-scale commercial software projects.
 
-* Currently working on research projects that have potentials to revolutionize diagnosis and treatment of severe diseases with the support of machine learning.
-
 * Academic and industry achievements (2008-2021):
 
   * 2016-2021:
 
-  * Achieved high academic merit after reentering school, including high honor rolls, half-fee, summer research, dean’s list, Ph.D., and postgraduate supplementary scholarships from the University of Sydney as a Master's and PhD student. Published high quality scientific papers in areas of machine learning, pattern recognition and translational medicine in IEEE, Cancers, and Lancet family journals.
+  * Achieved high academic merit after reentering school, including high honor rolls, half-fee, summer research, dean’s list, Ph.D., and postgraduate supplementary scholarships from the University of Sydney as a Master's and PhD student. Published high quality scientific papers in areas of machine learning, pattern recognition and translational medicine in Pattern Recognition, IEEE JBHI, Cancers, and Lancet family journals.
 
   * 2008-2016:
 
@@ -38,7 +37,7 @@ About
 Education
 ======
 * The University of Sydney, Australia
-  * Ph.D (Artificial Intelligence and Image Processing, Thesis under submission), 2018-2021
+  * Ph.D (Artificial Intelligence and Image Processing), 2018.07-2022.04
   * Master of Information Technology, 2016-2018
 * Shandong University, China
   * Undergraduate in Computer Science, 2003-2007
@@ -62,6 +61,26 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Industry Work experience
+======
+* **Senior Staff Research Scientist** in Enflame (04/2022 – )
+  * AI framework optimization and computer vision
+* **Senior Software Engineer** in iQiYi.com (11/2011 – 07/2016)
+  * Architecture design and development of a cross-platform video streaming kernel
+  * Design and implementation of a universal video streaming model which has high extensibility and reliability
+  * Responsible for video client integration of iQiYi & PPS in video streaming
+  * Research, architecture design and development of technical solutions for iQiYi-XiaoMi cooperation
+  * Research and exploration of the video streaming solutions for early-stage internet TV
+  * Implementation of the human-machine interaction and video-on-demand solution for early-stage internet TV.
+* **Software Engineer** in SuperD (02/2011 - 09/2011)
+  * Responsible for design and development of the glasses-free 3D video client, include 3D video synthesis, 3D video renderer module, video transforming module.
+  * Software design and implementation of the first commercial naked-eye 3D video player (client).
+  * GPU synthesis and rendering of 3D video (left-right and up-down format of 3D videos).
+* **Software Developer** in Vale Internet (Beijing) Co., Ltd. (09/2008 - 02/2011)
+  * Mainly responsible for the development of the video distribution system, include product management application, video transforming client, video uploading client. Supported the whole life-cycle of the project, ranging from video transforming, distributing to the exhibition.
+* **Software Developer** in Beijing ZhiFang Tech Co., Ltd. (02/2008 - 09/2008)
+  * Responsible for the development and integration of a communication module which is used in medical research and examination application, this communication module can retrieve testing data from medical instruments and translate these raw data to readable report, and then print it.
+  
 Open-source Projects
 ======
 * **COVID-MTL**
@@ -109,24 +128,6 @@ Research Experience
   * Write and publish high-quality scientific papers on computer vision, pattern recognition, machine learning, and translational medicine related areas. 
   * Improve the performance of deep learning algorithms in medical image recognition and genomic data processing.
   * Research and improve computer vision algorithms (such as image detection, segmentation, registration, etc.) for pathology and CT image data analysis.
-
-Industry Work experience
-======
-* **Senior Software Engineer** in iQiYi.com (11/2011 – 07/2016)
-  * Architecture design and development of a cross-platform video streaming kernel
-  * Design and implementation of a universal video streaming model which has high extensibility and reliability
-  * Responsible for video client integration of iQiYi & PPS in video streaming
-  * Research, architecture design and development of technical solutions for iQiYi-XiaoMi cooperation
-  * Research and exploration of the video streaming solutions for early-stage internet TV
-  * Implementation of the human-machine interaction and video-on-demand solution for early-stage internet TV.
-* **Software Engineer** in SuperD (02/2011 - 09/2011)
-  * Responsible for design and development of the glasses-free 3D video client, include 3D video synthesis, 3D video renderer module, video transforming module.
-  * Software design and implementation of the first commercial naked-eye 3D video player (client).
-  * GPU synthesis and rendering of 3D video (left-right and up-down format of 3D videos).
-* **Software Developer** in Vale Internet (Beijing) Co., Ltd. (09/2008 - 02/2011)
-  * Mainly responsible for the development of the video distribution system, include product management application, video transforming client, video uploading client. Supported the whole life-cycle of the project, ranging from video transforming, distributing to the exhibition.
-* **Software Developer** in Beijing ZhiFang Tech Co., Ltd. (02/2008 - 09/2008)
-  * Responsible for the development and integration of a communication module which is used in medical research and examination application, this communication module can retrieve testing data from medical instruments and translate these raw data to readable report, and then print it.
   
 Talks
 ======
