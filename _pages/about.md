@@ -37,7 +37,7 @@ About
 Education
 ======
 * The University of Sydney, Australia
-  * Ph.D (Artificial Intelligence and Image Processing), 2018.07-2022.04
+  * **Ph.D (Artificial Intelligence and Image Processing)**, 2018.07-2022.04
   * Master of Information Technology, 2016-2018
 * Shandong University, China
   * Undergraduate in Computer Science, 2003-2007
