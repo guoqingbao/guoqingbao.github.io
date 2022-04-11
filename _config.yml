@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Guoqing Bao"
 title_separator          : "-"
 name                     : &name "Guoqing Bao"
-description              : &description "Senior staff researcher in Enflame, obtained his PhD in Artificial Intelligence and Image Processing from School of Computer Science, The University of Sydney. Currently doing research in AI framework optimization & computer vision. Before oversea study, he has worked as a senior software engineer in Beijing (e.g., iQiYi.com) from 2008 t0 2016."
+description              : &description "Senior staff researcher in Enflame, obtained his PhD in Artificial Intelligence and Image Processing from School of Computer Science, The University of Sydney. Currently doing research in AI framework optimization & computer vision. Before oversea study, he has worked as a senior software engineer in Beijing (e.g., iQiYi.com) from 2008 to 2016."
 url                      : https://guoqingbao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guoqingbao/guoqingbao.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Guoqing Bao"
   avatar           : "profile.png"
-  bio              : "Senior staff researcher in Enflame, obtained PhD in Computer Science from School of Computer Science, The University of Sydney. Currently doing research in AI framework optimization & computer vision. Before oversea study, he has worked as a senior software engineer in Beijing (e.g., iQiYi.com) from 2008 t0 2016."
+  bio              : "Senior staff researcher in Enflame, obtained PhD in Artificial Intelligence & Image Processing from School of Computer Science, University of Sydney. Currently doing research in AI framework optimization & computer vision. Before oversea study, he has worked as a senior software engineer in Beijing (e.g., iQiYi.com) from 2008 t0 2016."
   location         : "Sydney"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=guoqing+bao"
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/guoqingbao"
+  github           : "guoqingbao"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/topon"
+  linkedin         : "topon"
   orcid            : "https://orcid.org/0000-0002-0669-6358"
   pinterest        :
   soundcloud       :
