@@ -120,9 +120,9 @@ Regular Reviewer for
   * PLOS One
   * International Conference on Control, Automation, Robotics and Vision
 
-Research Experience
+Academic Research Experience
 ======
-* **PhD Candidate & Research Assistant** in School of Computer Science, The University of Sydney (04/2018 – Present)
+* **PhD Candidate & Research Assistant** in School of Computer Science, The University of Sydney (04/2018 – 2022.04)
   * Analyses medical imaging data and genomic big data based on machine learning/deep learning. 
   * Design and implement machine learning models that can harness medical big data for disease diagnosis. 
   * Write and publish high-quality scientific papers on computer vision, pattern recognition, machine learning, and translational medicine related areas. 
