@@ -13,6 +13,8 @@ redirect_from:
 
 About
 ======
+* From Oct 2022, winner of Shanghai Pujiang Talent Program Award, conferred by Shanghai Municipal Government (Science and Technology Commission); work as Project Lead for a 2-year research project in artificial intelligence & heterogeneous computing.
+
 * From 2022, work as a Senior Staff Researcher in AI framework optimization and computer vision
 
 * Having both intensive university research and software engineering work experience, which enables me to fast prototyping and commercially implementing novel ideas.
@@ -44,6 +46,8 @@ Education
 
 Academic Awards
 ======
+* Science and Technology Commission, Shanghai Municipal Government
+  * **Shanghai Pujiang Talent Program Award** (10/2022)
 * School of Computer Science, University of Sydney
   * **Dean's List of Excellence in Academic Performance** (09/2018)
   * **High Honour Roll in Digital Media Computing** (05/2018)
