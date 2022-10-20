@@ -40,7 +40,7 @@ Education
 
 Academic Awards
 ======
-* Science and Technology Commission, Shanghai Municipal Government
+* Science and Technology Commission of Shanghai Municipality
   * **Shanghai Pujiang Talent Program Award** (10/2022)
 * School of Computer Science, University of Sydney
   * **Dean's List of Excellence in Academic Performance** (09/2018)
