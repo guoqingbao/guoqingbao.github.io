@@ -13,7 +13,7 @@ About
 ======
 **Current:** Research in AI framework optimization & computer vision (2022-):
 
-Received Shanghai Pujiang Talent Program Award from Shanghai Municipal Government (Science and Technology Commission) for a 2-year research project. 
+Received Shanghai Pujiang Talent Program Award from _Science and Technology Commission of Shanghai Municipality_ for a 2-year research project. 
 
 **Oversea study and research experience** (2016-2022, Sydney University):
 
