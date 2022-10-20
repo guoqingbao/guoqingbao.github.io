@@ -11,14 +11,16 @@ redirect_from:
 
 About
 ======
-Current: Research in AI framework optimization & computer vision
+**Current:** Research in AI framework optimization & computer vision (2022-):
 
-Oversea study and research experience (2016-2022, Sydney University):
+Received Shanghai Pujiang Talent Program Award from Shanghai Municipal Government (Science and Technology Commission) for a 2-year research project. 
+
+**Oversea study and research experience** (2016-2022, Sydney University):
 
 Received Ph.D., half-fee and summer research scholarship from Sydney University. The achievement was recognized by the university and placed on the Deans' List of Academic Excellence. Successfully led seven group projects, four of them were top projects.
 
 
-Past work experience (2008-2016):
+**Past work experience** (2008-2016):
 
 9 years' industry experience in design & development of the large-scale multimedia projects, ranging from video streaming, demuxing, transcoding, rendering to commercial software architecture design.
 
@@ -38,6 +40,8 @@ Education
 
 Academic Awards
 ======
+* Science and Technology Commission, Shanghai Municipal Government
+  * **Shanghai Pujiang Talent Program Award** (10/2022)
 * School of Computer Science, University of Sydney
   * **Dean's List of Excellence in Academic Performance** (09/2018)
   * **High Honour Roll in Digital Media Computing** (05/2018)
