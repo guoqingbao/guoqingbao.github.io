@@ -13,28 +13,30 @@ redirect_from:
 
 About
 ======
-* From Oct 2022, Received Shanghai Pujiang Talent Program Award from _Science and Technology Commission of Shanghai Municipality_, worked as Project Lead for a 2-year research project in artificial intelligence & heterogeneous computing.
 
-* From 2022, work as a Senior Staff Researcher in AI framework optimization and computer vision
+About
+======
+* Since 2022, Dr. Bao has been working as a Senior Staff Researcher specializing in ML framework optimization.
 
-* Having both intensive university research and software engineering work experience, which enables me to fast prototyping and commercially implementing novel ideas.
+* Starting from October 2022, he received the Shanghai Pujiang Talent Program Award from the Science and Technology Commission of Shanghai Municipality, where he served as the Project Lead for a 2-year research project in artificial intelligence and heterogeneous computing.
+  
+* With a rich background in both university research and software engineering, he possess the capability to rapidly prototype and commercially implement innovative ideas.
 
-* Four years' full-time research experience in computer vision, artificial intelligence and medical informatics, and additional nine years' industry work experience as a senior/software engineer in development and architecture design of large-scale commercial software projects.
+* He has accumulated six years of full-time research experience in the fields of computer vision, deep learning, and medical informatics, alongside an additional nine years of industry work experience as a senior software engineer, involving the development and architectural design of large-scale commercial software projects.
 
-* Academic and industry achievements (2008-2021):
+* Academic and industry achievements spanning from 2008 to 2021:
 
   * 2016-2021:
 
-  * Achieved high academic merit after reentering school, including high honor rolls, half-fee, summer research, dean’s list, Ph.D., and postgraduate supplementary scholarships from the University of Sydney as a Master's and PhD student. Published high quality scientific papers in areas of machine learning, pattern recognition and translational medicine in Pattern Recognition, IEEE JBHI, Cancers, and Lancet family journals.
+    * He earned outstanding academic achievements, including high honor rolls, half-fee scholarships, summer research opportunities, placement on the dean's list, as well as Ph.D. and postgraduate supplementary scholarships, during his time as a Master's and Ph.D. student at the University of Sydney. He published high-quality scientific papers in the fields of machine learning, pattern recognition, and translational medicine in journals such as Pattern Recognition, IEEE JBHI, Cancers, and Lancet family journals.
 
   * 2008-2016:
 
-  * Responsible for architecture design and development of a cross-platform video streaming system in iQiYi.com.  Designed and implemented the universal video streaming model, the streaming architecture is stably running in hundreds of millions of mobile devices, PCs and smart TVs. It supported more than one billion video views per day successfully and stably and promoted more than 6% video view success rate in iQiYi platform since 2014.
+    * Took on a key role in the architecture design and development of a cross-platform video streaming system at iQiYi.com. His contributions included the creation and implementation of a universal video streaming system, which remains in stable operation across hundreds of millions of mobile devices, PCs, and smart TVs. This model successfully supported more than one billion daily video views and improved the video view success rate on the iQiYi platform by over 6% since 2014.
 
-  * Designed the technical solution which can stream iQiYi's video & AD content in third-party platforms. With the help of this technical solution, China’s top smartphone maker XiaoMi invested 300 million US dollars in iQiYi for video content cooperation at the end of 2014.
+    * Pioneered the technical solution for streaming iQiYi's video and advertising content on third-party platforms, a milestone that led to a 300-million-dollar investment by China's top smartphone manufacturer, Xiaomi, for video content collaboration in late 2014.
 
-  * Implemented the human-machine interaction and video-on-demand solution for early-stage Internet TV (Smart TV) using Windows as the simulation platform. The pioneer design and solution has been the standard reference for many android streaming clients since 2012. The design and streaming solution was widely used by hundreds of millions of Smart TV/TVBox devices since 2013.
-
+    * Developed a human-machine interaction and video-on-demand solution for early-stage Internet TV (Smart TV), using Windows as the simulation platform. This groundbreaking design and solution have since become the standard reference for many Android streaming clients since 2012. The design and streaming solution have been widely adopted by hundreds of millions of Smart TV and TVBox devices since 2013.
 
 Education
 ======
@@ -58,6 +60,12 @@ Academic Awards
   * **Engineering and Information Technologies Research Scholarship** (04/2018)
   * **Postgraduate Research Supplementary Scholarship** (08/2018) 
   * **University of Sydney International Scholarship (USydIS)** (08/2018)
+
+Patents
+======
+* A unified ML computing strategy (device, equipment, and media) in heterogeneous scenarios (ZL 2023 1 0348238.2), April 2023.
+* A method and device for determining neural network task scheduling strategies in heterogeneous scenarios (ZL 2023 1 0430896.6), April 2023.
+* A unified ML compiler based on multi-level code generation (ZL 2023 1 0834277.3), July 2023. 
 
 Publications
 ======
