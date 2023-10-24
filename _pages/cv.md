@@ -13,7 +13,7 @@ About
 ======
 **Current:** Research in AI framework optimization & computer vision (2022-):
 
-Received Shanghai Pujiang Talent Program Award from _Science and Technology Commission of Shanghai Municipality_ for a 2-year research project. 
+Received Shanghai Pujiang Program Award from _Science and Technology Commission of Shanghai Municipality_ for a 2-year research project. 
 
 **Oversea study and research experience** (2016-2022, Sydney University):
 
@@ -41,7 +41,7 @@ Education
 Academic Awards
 ======
 * Science and Technology Commission of Shanghai Municipality
-  * **Shanghai Pujiang Talent Program Award** (10/2022)
+  * **Shanghai Pujiang Program Award** (10/2022)
 * School of Computer Science, University of Sydney
   * **Dean's List of Excellence in Academic Performance** (09/2018)
   * **High Honour Roll in Digital Media Computing** (05/2018)
