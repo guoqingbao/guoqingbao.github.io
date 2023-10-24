@@ -16,9 +16,9 @@ About
 
 About
 ======
-* Since 2022, Dr. Bao has been working as a Senior Staff Researcher specializing in ML framework optimization.
+* Since 2022, Dr. Bao has been working as a Senior Staff Researcher specializing in ML framework & ML systems.
 
-* Starting from October 2022, he received the Shanghai Pujiang Talent Program Award from the Science and Technology Commission of Shanghai Municipality, where he served as the Project Lead for a 2-year research project in artificial intelligence and heterogeneous computing.
+* Starting from October 2022, he received the Shanghai Pujiang Program Award from the Science and Technology Commission of Shanghai Municipality, where he served as the Project Lead for a 2-year research project in artificial intelligence and heterogeneous computing.
   
 * With a rich background in both university research and software engineering, he possess the capability to rapidly prototype and commercially implement innovative ideas.
 
@@ -49,7 +49,7 @@ Education
 Academic Awards
 ======
 * Science and Technology Commission of Shanghai Municipality
-  * **Shanghai Pujiang Talent Program Award** (10/2022)
+  * **Shanghai Pujiang Program Award** (10/2022)
 * School of Computer Science, University of Sydney
   * **Dean's List of Excellence in Academic Performance** (09/2018)
   * **High Honour Roll in Digital Media Computing** (05/2018)
