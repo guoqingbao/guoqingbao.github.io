@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
 {% include base_path %}
-
-About
-======
 
 About
 ======
@@ -20,7 +16,7 @@ About
 
 * Starting from October 2022, he received the Shanghai Pujiang Program Award from the Science and Technology Commission of Shanghai Municipality, where he served as the Project Lead for a 2-year research project in artificial intelligence and heterogeneous computing.
   
-* With a rich background in both university research and software engineering, he possess the capability to rapidly prototype and commercially implement innovative ideas.
+* With a rich background in both university research and software engineering, he possesses the capability to rapidly prototype and commercially implement innovative ideas.
 
 * He has accumulated six years of full-time research experience in the fields of computer vision, deep learning, and medical informatics, alongside an additional nine years of industry work experience as a senior software engineer, involving the development and architectural design of large-scale commercial software projects.
 
@@ -28,7 +24,7 @@ About
 
   * 2016-2021:
 
-    * He earned outstanding academic achievements, including high honor rolls, half-fee scholarships, summer research opportunities, placement on the dean's list, as well as Ph.D. and postgraduate supplementary scholarships, during his time as a Master's and Ph.D. student at the University of Sydney. He published high-quality scientific papers in the fields of machine learning, pattern recognition, and translational medicine in journals such as Pattern Recognition, IEEE JBHI, Cancers, and Lancet family journals.
+    * He earned outstanding academic achievements, including high honour rolls, half-fee scholarships, summer research opportunities, placement on the dean's list, as well as PhD and postgraduate supplementary scholarships, during his time as a Master's and PhD student at the University of Sydney. He published high-quality scientific papers in the fields of machine learning, pattern recognition, and translational medicine in journals such as Pattern Recognition, IEEE JBHI, Cancers, and Lancet family journals.
 
   * 2008-2016:
 
@@ -36,12 +32,12 @@ About
 
     * Pioneered the technical solution for streaming iQiYi's video and advertising content on third-party platforms, a milestone that led to a 300-million-dollar investment by China's top smartphone manufacturer, Xiaomi, for video content collaboration in late 2014.
 
-    * Developed a human-machine interaction and video-on-demand solution for early-stage Internet TV (Smart TV), using Windows as the simulation platform. This groundbreaking design and solution have since become the standard reference for many Android streaming clients since 2012. The design and streaming solution have been widely adopted by hundreds of millions of Smart TV and TVBox devices since 2013.
+    * Developed a human-machine interaction and video-on-demand solution for early-stage Internet TV (Smart TV), using Windows as the simulation platform. This groundbreaking design and solution have since become the standard reference for many Android streaming clients since 2012. The design and streaming solution has been widely adopted by hundreds of millions of Smart TV and TVBox devices since 2013.
 
 Education
 ======
 * The University of Sydney, Australia
-  * **Ph.D (Artificial Intelligence and Image Processing)**, 2018.07-2022.04
+  * **PhD (Artificial Intelligence and Image Processing)**, 2018.07-2022.04
   * Master of Information Technology, 2016-2018
 * Shandong University, China
   * Undergraduate in Computer Science, 2003-2007
@@ -76,53 +72,22 @@ Publications
 Industry Work experience
 ======
 * **Senior Staff Research Scientist** in Enflame (04/2022 – )
-  * AI framework optimization and computer vision
+  * ML system/framework optimization
 * **Senior Software Engineer** in iQiYi.com (11/2011 – 07/2016)
-  * Architecture design and development of a cross-platform video streaming kernel
+  * Architecture design and development of a cross-platform video streaming system
   * Design and implementation of a universal video streaming model which has high extensibility and reliability
-  * Responsible for video client integration of iQiYi & PPS in video streaming
+  * Responsible for video streaming client integration for iQiYi & PPS
   * Research, architecture design and development of technical solutions for iQiYi-XiaoMi cooperation
-  * Research and exploration of the video streaming solutions for early-stage internet TV
-  * Implementation of the human-machine interaction and video-on-demand solution for early-stage internet TV.
+  * Research and exploration of video streaming solutions for early-stage Internet TV (Feb 2011 - July 2012)
+  * Implementation of the human-machine interaction and video-on-demand solution for early-stage internet TV (Feb 2011 - July 2012). 
 * **Software Engineer** in SuperD (02/2011 - 09/2011)
-  * Responsible for design and development of the glasses-free 3D video client, include 3D video synthesis, 3D video renderer module, video transforming module.
+  * Responsible for the design and development of the glasses-free 3D video client, including 3D video synthesis, 3D video renderer module, and video transforming module.
   * Software design and implementation of the first commercial naked-eye 3D video player (client).
   * GPU synthesis and rendering of 3D video (left-right and up-down format of 3D videos).
 * **Software Developer** in Vale Internet (Beijing) Co., Ltd. (09/2008 - 02/2011)
-  * Mainly responsible for the development of the video distribution system, include product management application, video transforming client, video uploading client. Supported the whole life-cycle of the project, ranging from video transforming, distributing to the exhibition.
+  * Mainly responsible for the development of the video distribution system, including product management application, video transforming client, and video uploading client. Supported the whole life-cycle of the project, ranging from video transforming, and distributing to the exhibition.
 * **Software Developer** in Beijing ZhiFang Tech Co., Ltd. (02/2008 - 09/2008)
-  * Responsible for the development and integration of a communication module which is used in medical research and examination application, this communication module can retrieve testing data from medical instruments and translate these raw data to readable report, and then print it.
-  
-Open-source Projects
-======
-* **COVID-MTL**
-  * A multitask learning framework for diagnosis and severity assessment of COVID-19
-  * Code: [https://github.com/guoqingbao/COVID-MTL](https://github.com/guoqingbao/COVID-MTL)
-  * Paper: [https://www.sciencedirect.com/science/article/pii/S0031320321006750](https://www.sciencedirect.com/science/article/pii/S0031320321006750)
-* **Pancancer Survival Analysis Framework**
-  * We proposed a machine learning powered pipeline for survival analysis of different types of cancers based on gene expression
-  * Code: [https://github.com/guoqingbao/PanCancerLncRNA](https://github.com/guoqingbao/PanCancerLncRNA)
-  * Paper: [https://ieeexplore.ieee.org/document/9209037](https://ieeexplore.ieee.org/document/9209037)
-* **Multiception**
-  * A novel convolutional method that designed to improve the performance of depthwise separable convolution
-  * Code: [https://github.com/guoqingbao/Multiception](https://github.com/guoqingbao/Multiception)
-  * Presentation: [https://cloudstor.aarnet.edu.au/plus/s/vcmh8wLXVDtsZKQ](https://cloudstor.aarnet.edu.au/plus/s/vcmh8wLXVDtsZKQ)
-  * Paper: [https://ieeexplore.ieee.org/document/9305369](https://ieeexplore.ieee.org/document/9305369)
-* **PathoFusion**
-  * An AI framework for automated detection of cancerous features in whole-slide histopathology images and mapping with immunohistochemical data in adjacent tissue sections
-  * Code: [https://github.com/guoqingbao/Pathofusion](https://github.com/guoqingbao/Pathofusion)
-  * Video demo: [https://www.youtube.com/watch?v=NXN6MpribTU](https://www.youtube.com/watch?v=NXN6MpribTU)
-  * Presentation of core method: [https://cloudstor.aarnet.edu.au/plus/s/trQ3fL6acH345Ec](https://cloudstor.aarnet.edu.au/plus/s/trQ3fL6acH345Ec)
-  * Paper for core method: [https://ieeexplore.ieee.org/document/9305369](https://ieeexplore.ieee.org/document/9305369)
-  * Paper for application: [https://www.mdpi.com/2072-6694/13/4/617](https://www.mdpi.com/2072-6694/13/4/617)
-* **PathoLabelling**
-  * As a part of PathoFusion system, patholabelling enables the researchers and clinical experts marking the histopathology images for training AI model in recognition of malignant structures. The website provide functions to speed up traditional microscopic diagnostic workflow by overlaying the detected heatmaps on top of whole-slide tissue sections.
-  * Code: [https://github.com/guoqingbao/Patholabelling](https://github.com/guoqingbao/Patholabelling)
-  * Video demo: [https://cloudstor.aarnet.edu.au/plus/s/JSASsezqvrB9sgA](https://cloudstor.aarnet.edu.au/plus/s/JSASsezqvrB9sgA)
-* **DeepAdipose**
-  * We proposed a deep learning based framework for evaluation of metabolic disorders and surgery-induced weight loss effects using CT texture features extracted from human visceral.
-  * Code: [https://github.com/guoqingbao/DeepAdipose](https://github.com/guoqingbao/DeepAdipose)
-  * Paper: [https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(21)00264-4/fulltext](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(21)00264-4/fulltext) 
+  * Responsible for the development of a communication module which is used in medical research and health examination (in hospitals), this communication module can retrieve examination data from medical instruments and then translate these raw data into readable printed reports.
 
 Regular Reviewer for
 ======
@@ -136,10 +101,42 @@ Academic Research Experience
 ======
 * **PhD Candidate & Research Assistant** in School of Computer Science, The University of Sydney (04/2018 – 2022.04)
   * Analyses medical imaging data and genomic big data based on machine learning/deep learning. 
-  * Design and implement machine learning models that can harness medical big data for disease diagnosis. 
-  * Write and publish high-quality scientific papers on computer vision, pattern recognition, machine learning, and translational medicine related areas. 
+  * Design and implement machine learning models to harness medical big data for disease diagnosis. 
+  * Write and publish high-quality scientific papers on computer vision, pattern recognition, machine learning, and translational medicine-related areas. 
   * Improve the performance of deep learning algorithms in medical image recognition and genomic data processing.
   * Research and improve computer vision algorithms (such as image detection, segmentation, registration, etc.) for pathology and CT image data analysis.
+
+Open-source Projects
+======
+* **COVID-MTL**
+  * A multitask learning framework for diagnosis and severity assessment of COVID-19
+  * Code: [https://github.com/guoqingbao/COVID-MTL](https://github.com/guoqingbao/COVID-MTL)
+  * Paper: [https://www.sciencedirect.com/science/article/pii/S0031320321006750](https://www.sciencedirect.com/science/article/pii/S0031320321006750)
+* **Pancancer Survival Analysis Framework**
+  * We proposed a machine learning-powered pipeline for survival analysis of different types of cancers based on gene expression
+  * Code: [https://github.com/guoqingbao/PanCancerLncRNA](https://github.com/guoqingbao/PanCancerLncRNA)
+  * Paper: [https://ieeexplore.ieee.org/document/9209037](https://ieeexplore.ieee.org/document/9209037)
+* **Multiception**
+  * A novel convolutional method designed to improve the performance of depthwise separable convolution
+  * Code: [https://github.com/guoqingbao/Multiception](https://github.com/guoqingbao/Multiception)
+  * Presentation: [https://cloudstor.aarnet.edu.au/plus/s/vcmh8wLXVDtsZKQ](https://cloudstor.aarnet.edu.au/plus/s/vcmh8wLXVDtsZKQ)
+  * Paper: [https://ieeexplore.ieee.org/document/9305369](https://ieeexplore.ieee.org/document/9305369)
+* **PathoFusion**
+  * An AI framework for automated detection of cancerous features in whole-slide histopathology images and mapping with immunohistochemical data in adjacent tissue sections
+  * Code: [https://github.com/guoqingbao/Pathofusion](https://github.com/guoqingbao/Pathofusion)
+  * Video demo: [https://www.youtube.com/watch?v=NXN6MpribTU](https://www.youtube.com/watch?v=NXN6MpribTU)
+  * Presentation of core method: [https://cloudstor.aarnet.edu.au/plus/s/trQ3fL6acH345Ec](https://cloudstor.aarnet.edu.au/plus/s/trQ3fL6acH345Ec)
+  * Paper for core method: [https://ieeexplore.ieee.org/document/9305369](https://ieeexplore.ieee.org/document/9305369)
+  * Paper for application: [https://www.mdpi.com/2072-6694/13/4/617](https://www.mdpi.com/2072-6694/13/4/617)
+* **PathoLabelling**
+  * As a part of the PathoFusion system, patholabelling enables researchers and clinical experts to mark the histopathology images for training AI models in recognition of malignant structures. The website provides functions to speed up traditional microscopic diagnostic workflow by overlaying the detected heatmaps on top of whole-slide tissue sections.
+  * Code: [https://github.com/guoqingbao/Patholabelling](https://github.com/guoqingbao/Patholabelling)
+  * Video demo: [https://cloudstor.aarnet.edu.au/plus/s/JSASsezqvrB9sgA](https://cloudstor.aarnet.edu.au/plus/s/JSASsezqvrB9sgA)
+* **DeepAdipose**
+  * We proposed a deep learning-based framework for the evaluation of metabolic disorders and surgery-induced weight loss effects using CT texture features extracted from human visceral.
+  * Code: [https://github.com/guoqingbao/DeepAdipose](https://github.com/guoqingbao/DeepAdipose)
+  * Paper: [https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(21)00264-4/fulltext](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(21)00264-4/fulltext) 
+
   
 Talks
 ======
