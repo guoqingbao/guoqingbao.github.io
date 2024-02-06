@@ -12,13 +12,13 @@ redirect_from:
 
 About
 ======
-* Since 2022, Dr. Bao has been working as a Senior Staff Researcher specializing in ML framework & ML systems.
+* Since 2022, Dr. Bao has been working as a Senior Staff Researcher specializing in the optimization of ML systems.
 
-* Starting from October 2022, he received the Shanghai Pujiang Program Award from the Science and Technology Commission of Shanghai Municipality, where he served as the Project Lead for a 2-year research project in artificial intelligence and heterogeneous computing.
+* Starting from October 2022, he received the Shanghai Leading Talent (Overseas) award and the Shanghai Pujiang Program Award from Shanghai Municipality, where he served as the Project Lead for a 2-year research project in artificial intelligence and heterogeneous computing.
   
-* With a rich background in both university research and software engineering, he possesses the capability to rapidly prototype and commercially implement innovative ideas.
+* With a rich background in both university research and industry software engineering, he possesses the capability to rapidly prototype and commercially implement innovative ideas.
 
-* He has accumulated six years of full-time research experience in the fields of computer vision, deep learning, and medical informatics, alongside an additional nine years of industry work experience as a senior software engineer, involving the development and architectural design of large-scale commercial software projects.
+* He has accumulated six years of full-time research experience in computer vision, deep learning, and medical informatics, alongside nine years of industry work experience as a senior software engineer, involving the development and architectural design of large-scale commercial software projects.
 
 * Academic and industry achievements spanning from 2008 to 2021:
 
@@ -28,7 +28,7 @@ About
 
   * 2008-2016:
 
-    * Took on a key role in the architecture design and development of a cross-platform video streaming system at iQiYi.com. His contributions included the creation and implementation of a universal video streaming system, which remains in stable operation across hundreds of millions of mobile devices, PCs, and smart TVs. This model successfully supported more than one billion daily video views and improved the video view success rate on the iQiYi platform by over 6% since 2014.
+    * Took on a key role in the architecture design and development of a cross-platform video streaming system at iQiYi.com. His contributions included the creation and implementation of a universal video streaming system, which remains in stable operation across hundreds of millions of mobile devices, PCs, and smart TVs. This model successfully supported over one billion daily video views and improved the video view success rate on the iQiYi platform by over 6% since 2014.
 
     * Pioneered the technical solution for streaming iQiYi's video and advertising content on third-party platforms, a milestone that led to a 300-million-dollar investment by China's top smartphone manufacturer, Xiaomi, for video content collaboration in late 2014.
 
@@ -44,6 +44,8 @@ Education
 
 Academic Awards
 ======
+* Shanghai Municipality
+  * **Shanghai Leading Talent (Overseas) Award** (09/2023)
 * Science and Technology Commission of Shanghai Municipality
   * **Shanghai Pujiang Program Award** (10/2022)
 * School of Computer Science, University of Sydney
@@ -72,7 +74,7 @@ Publications
 Industry Work experience
 ======
 * **Senior Staff Research Scientist** in Enflame (04/2022 – )
-  * ML system/framework optimization
+  * ML system/framework optimization (on emerging hardware)
 * **Senior Software Engineer** in iQiYi.com (11/2011 – 07/2016)
   * Architecture design and development of a cross-platform video streaming system
   * Design and implementation of a universal video streaming model which has high extensibility and reliability
