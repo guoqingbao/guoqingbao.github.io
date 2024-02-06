@@ -14,7 +14,7 @@ About
 ======
 * Since 2022, Dr. Bao has been working as a Senior Staff Researcher specializing in the optimization of ML systems.
 
-* Starting from October 2022, he received the Shanghai Leading Talent (Overseas) award and the Shanghai Pujiang Program Award from Shanghai Municipality, where he served as the Project Lead for a 2-year research project in artificial intelligence and heterogeneous computing.
+* Starting from October 2022, he received the Shanghai Leading Talent (Overseas) award and the Shanghai Pujiang Program Award from Shanghai Municipality, where he served as the Project Lead for a 2-year research project in artificial intelligence and heterogeneous computing on DSA (AI chips).
   
 * With a rich background in both university research and industry software engineering, he possesses the capability to rapidly prototype and commercially implement innovative ideas.
 
@@ -74,7 +74,7 @@ Publications
 Industry Work experience
 ======
 * **Senior Staff Research Scientist** in Enflame (04/2022 – )
-  * ML system/framework optimization (on emerging hardware)
+  * ML system/framework optimization (on DSA/AI Chips)
 * **Senior Software Engineer** in iQiYi.com (11/2011 – 07/2016)
   * Architecture design and development of a cross-platform video streaming system
   * Design and implementation of a universal video streaming model which has high extensibility and reliability
