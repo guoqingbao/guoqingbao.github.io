@@ -14,7 +14,7 @@ About
 ======
 * Since 2022, Dr. Bao has been working as a Senior Staff Researcher specializing in the optimization of ML systems.
 
-* Starting from October 2022, he received the Shanghai Leading Talent (Overseas) award and the Shanghai Pujiang Program Award from Shanghai Municipality, where he served as the Project Lead for a 2-year research project in artificial intelligence and heterogeneous computing on DSA (AI chips).
+* Starting from October 2022, he received the Shanghai Leading Talent (Overseas) award and the Shanghai Pujiang Program Award from Shanghai Municipality, where he served as the Project Lead for a 2-year research project in artificial intelligence and heterogeneous computing.
   
 * With a rich background in both university research and industry software engineering, he possesses the capability to rapidly prototype and commercially implement innovative ideas.
 
@@ -61,9 +61,11 @@ Academic Awards
 
 Patents
 ======
-* A unified ML computing strategy (device, equipment, and media) in heterogeneous scenarios (ZL 2023 1 0348238.2), April 2023.
+* A unified machine learning computing strategy (device, equipment, and media) in heterogeneous scenarios (ZL 2023 1 0348238.2), April 2023.
 * A method and device for determining neural network task scheduling strategies in heterogeneous scenarios (ZL 2023 1 0430896.6), April 2023.
-* A unified ML compiler based on multi-level code generation (ZL 2023 1 0834277.3), July 2023. 
+* A unified machine learning compiler based on multi-level code generation (ZL 2023 1 0834277.3), July 2023. 
+* A deep learning operator fusion method, device, electronic equipment and storage medium (ZL 2023 1 1559655.8, China), Nov, 2023.
+* A static generation method, device, equipment and medium for reverse computational graphs of DNN models (Patent authorized, Application No. 2023115769222), Feb, 2024.
 
 Publications
 ======
@@ -74,7 +76,7 @@ Publications
 Industry Work experience
 ======
 * **Senior Staff Research Scientist** in Enflame (04/2022 – )
-  * ML system/framework optimization (on DSA/AI Chips)
+  * ML system/framework optimization
 * **Senior Software Engineer** in iQiYi.com (11/2011 – 07/2016)
   * Architecture design and development of a cross-platform video streaming system
   * Design and implementation of a universal video streaming model which has high extensibility and reliability
@@ -110,6 +112,9 @@ Academic Research Experience
 
 Open-source Projects
 ======
+* **Candle-GCU**
+  * Porting Huggingface Candle ML framework to the Enflame platform.
+  * Code (Partial code release): [https://github.com/guoqingbao/Candle-GCU](https://github.com/guoqingbao/Candle-GCU)
 * **COVID-MTL**
   * A multitask learning framework for diagnosis and severity assessment of COVID-19
   * Code: [https://github.com/guoqingbao/COVID-MTL](https://github.com/guoqingbao/COVID-MTL)
