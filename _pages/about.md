@@ -12,11 +12,11 @@ redirect_from:
 
 About
 ======
-Since 2022, Dr. Bao has been a Senior Staff Researcher specializing in optimizing ML systems. He received the Shanghai Leading Talent (Overseas) and Shanghai Pujiang Program Awards in October 2022, leading a 2-year research project in artificial intelligence and heterogeneous computing. He has six years of full-time research experience in computer vision, deep learning, and medical informatics, and nine years of industry experience as a senior software engineer in developing and designing large-scale commercial software projects.
+Since 2022, Dr. Bao has been a Senior Staff Researcher specializing in optimizing ML systems on custom hardware. He received the Shanghai Leading Talent (Overseas) and Shanghai Pujiang Program Awards in 2022 and 2023, respectively, leading a 2-year research project in artificial intelligence and heterogeneous computing. He has six years of full-time research experience in computer vision, deep learning, and medical informatics, and nine years of industry experience as a senior software engineer in developing and designing large-scale commercial software projects.
 
 From 2008 to 2016, he played a crucial role in designing and developing a cross-platform video streaming system at iQiYi.com. This system, supporting over one billion daily views, remains stable across hundreds of millions of devices and has improved the platform's video view success rate by over 6% since 2014. He also pioneered streaming solutions for third-party platforms, attracting a $300 million investment from Xiaomi in 2014. Additionally, he developed a human-machine interaction and video-on-demand solution for early-stage Smart TVs and TVBox devices, widely adopted since 2013.
 
-From 2016 to 2021, he excelled as a Master's and PhD student at the University of Sydney, earning high honours, half-fee scholarships, summer research opportunities, and placement on the dean's list. He also received PhD and postgraduate supplementary scholarships. During this time, he published high-quality papers in machine learning, pattern recognition, and translational medicine in prestigious journals such as Pattern Recognition, IEEE JBHI, and Lancet family journals.
+From 2016 to 2021, he excelled as a Master's and PhD student at the School of Computer Science, University of Sydney, earning high honour rolls, half-fee scholarships, summer research opportunities, and placement on the dean's list. He also received PhD and postgraduate supplementary scholarships. During this time, he published high-quality papers in machine learning, pattern recognition, and translational medicine in prestigious journals such as Pattern Recognition, IEEE JBHI, and Lancet family journals.
 
 Education
 ======
@@ -40,7 +40,7 @@ Academic Awards
   * Half-Fee scholarship (05/2017)
 * Ph.D. Scholarship, University of Sydney
   * Engineering and Information Technologies Research Scholarship (04/2018)
-  * **Postgraduate Research Supplementary Scholarship (08/2018) 
+  * Postgraduate Research Supplementary Scholarship (08/2018) 
   * University of Sydney International Scholarship (USydIS) (08/2018)
 
 Patents
@@ -59,37 +59,32 @@ Publications
   
 Work experience
 ======
-
 - **Senior Staff Researcher** at Enflame Tech (04/2022 – Present)
-  - Optimizing machine learning systems and frameworks on custom hardware.
+  - Optimize machine learning systems and frameworks on custom hardware.
 
-- **PhD Candidate & Research Assistant** at School of Computer Science, The University of Sydney (04/2018 – 04/2022)
-  - Analyzed medical imaging and genomic big data using machine learning and deep learning.
-  - Designed and implemented machine learning models for disease diagnosis from medical big data.
-  - Authored and published scientific papers on computer vision, pattern recognition, machine learning, and translational medicine.
-  - Enhanced deep learning algorithms for medical image recognition and genomic data processing.
-  - Improved computer vision algorithms for pathology and CT image data analysis, including detection, segmentation, and registration.
-
-- **Senior Software Engineer** at iQiYi.com (11/2011 – 07/2016)
-  - Designed and developed architecture for a cross-platform video streaming system.
-  - Created a universal, extensible, and reliable video streaming method.
-  - Integrated video streaming clients for iQiYi and PPS.
-  - Developed technical solutions for iQiYi-XiaoMi cooperation.
-  - Researched and explored video streaming solutions for early-stage Internet TV (Feb 2011 - July 2012).
-  - Implemented human-machine interaction and video-on-demand solutions for early-stage Internet TV (Feb 2011 - July 2012).
-
-- **Software Engineer** at SuperD (02/2011 - 09/2011)
-  - Designed and developed a glasses-free 3D video client, including synthesis, renderer, and transforming modules.
-  - Developed the first commercial naked-eye 3D video player (client).
-  - Synthesized and rendered 3D videos using GPU (left-right and up-down formats).
-
-- **Software Developer** at Vale Internet (Beijing) Co., Ltd. (09/2008 - 02/2011)
-  - Developed a video distribution system, including product management applications, video transforming clients, and video uploading clients.
-  - Supported the full project lifecycle from video transformation and distribution to exhibition.
-
-- **Software Developer** at Beijing ZhiFang Tech Co., Ltd. (02/2008 - 09/2008)
+- **PhD Candidate & Research Assistant** at School of Computer Science, University of Sydney (04/2018 – 04/2022)  
+  - Medical imaging and genomic big data analyses using machine learning and deep learning.
+  - Design and implement machine learning models for disease diagnosis.
+  - Publish scientific papers on computer vision, pattern recognition, machine learning, and translational medicine.
+  - Enhance deep learning algorithms for medical image recognition and genomic data processing.
+  - Improve computer vision algorithms for pathology and CT image data analysis.
+- **Senior Software Engineer** at iQiYi.com (11/2011 – 07/2016)  
+  - Development and architecture design for a cross-platform video streaming system.
+  - Created a universal and reliable video streaming method.
+  - Integrate video streaming clients for iQiYi and PPS.
+  - Developed solutions for iQiYi-XiaoMi cooperation.
+  - Research video streaming solutions for early-stage Internet TV.
+  - Implemented human-machine interaction and video-on-demand solutions.
+- **Software Engineer** at SuperD (02/2011 - 09/2011)  
+  - Designed and developed a glasses-free 3D video client.
+  - Developed the first commercial naked-eye 3D video player.
+  - Synthesize and render 3D videos using GPU.
+- **Software Developer** at Vale Internet (Beijing) Co., Ltd. (09/2008 - 02/2011)  
+  - Developed a video distribution system.
+  - Supported the full project lifecycle from video transformation to exhibition.
+- **Software Developer** at Beijing ZhiFang Tech Co., Ltd. (02/2008 - 09/2008)  
   - Developed a communication module for medical research and health examinations.
-  - Enabled data retrieval from medical instruments and translated raw data into readable reports.
+  - Enable data retrieval from medical instruments and translate raw data into readable reports.
 
 Regular Reviewer for
 ======
