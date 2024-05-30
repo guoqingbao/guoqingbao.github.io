@@ -11,24 +11,11 @@ redirect_from:
 
 About
 ======
-**Current:** Research in AI framework optimization & computer vision (2022-):
+Since 2022, Dr. Bao has been a Senior Staff Researcher specializing in optimizing ML systems. In October 2022, he received the Shanghai Leading Talent (Overseas) award and the Shanghai Pujiang Program Award, leading a 2-year research project in artificial intelligence and heterogeneous computing. With extensive experience in university research and industry software engineering, he excels in rapidly prototyping and commercially implementing innovative ideas. He has six years of full-time research experience in computer vision, deep learning, and medical informatics, and nine years of industry experience as a senior software engineer in developing and designing large-scale commercial software projects.
 
-Received Shanghai Pujiang Program Award from _Science and Technology Commission of Shanghai Municipality_ for a 2-year research project. 
+From 2008 to 2016, he played a crucial role in the architecture design and development of a cross-platform video streaming system at iQiYi.com. His work included creating and implementing a universal video streaming system that remains in stable operation across hundreds of millions of devices, supporting over one billion daily video views and improving the platform's video view success rate by over 6% since 2014. He also pioneered the technical solution for streaming iQiYi's video and advertising content on third-party platforms, leading to a $300 million investment by Xiaomi in late 2014. Additionally, he developed a human-machine interaction and video-on-demand solution for early-stage Internet TV (Smart TV), which has been widely adopted by Smart TV and TVBox devices since 2013.
 
-**Oversea study and research experience** (2016-2022, Sydney University):
-
-Received Ph.D., half-fee and summer research scholarship from Sydney University. The achievement was recognized by the university and placed on the Deans' List of Academic Excellence. Successfully led seven group projects, four of them were top projects.
-
-
-**Past work experience** (2008-2016):
-
-9 years' industry experience in design & development of the large-scale multimedia projects, ranging from video streaming, demuxing, transcoding, rendering to commercial software architecture design.
-
-Responsible for architecture design and development of a cross-platform video streaming system in iQiYi.com. Designed and implemented the universal video streaming model, the streaming architecture is stably running in hundreds of millions of mobile devices, PCs and smart TVs. It supported more than one billion video views per day successfully and stably and promoted more than 6% video view success rate in iQiYi platform since 2014.
-
-Designed the technical solution which can stream iQiYi's video & AD content in third-party platforms. With the help of this technical solution, China’s top smartphone maker XiaoMi invested 300 million US dollars in iQiYi for video content cooperation at the end of 2014.
-
-Implemented the human-machine interaction and video-on-demand solution for early-stage Internet TV (Smart TV) using Windows as the simulation platform. The pioneer design and solution has been the standard reference for many android streaming clients since 2012. The design and streaming solution was widely used by hundreds of millions of Smart TV/TVBox devices since 2013. 
+From 2016 to 2021, he achieved academic success as a Master's and PhD student at the University of Sydney, earning high honours, half-fee scholarships, summer research opportunities, and placement on the dean's list. He also received PhD and postgraduate supplementary scholarships. During this time, he published high-quality scientific papers in the fields of machine learning, pattern recognition, and translational medicine in prestigious journals such as Pattern Recognition, IEEE JBHI and Lancet family journals.
 
 Education
 ======
@@ -40,18 +27,20 @@ Education
 
 Academic Awards
 ======
+* Shanghai Municipality
+  * Shanghai Leading Talent (Overseas) Award (09/2023)
 * Science and Technology Commission of Shanghai Municipality
-  * **Shanghai Pujiang Program Award** (10/2022)
+  * Shanghai Pujiang Program Award (10/2022)
 * School of Computer Science, University of Sydney
-  * **Dean's List of Excellence in Academic Performance** (09/2018)
-  * **High Honour Roll in Digital Media Computing** (05/2018)
-  * **High Honour Roll in Research Project** (05/2018)
-  * **Summer Research Scholarship** (11/2017)
-  * **Half-Fee scholarship** (05/2017)
+  * Dean's List of Excellence in Academic Performance (09/2018)
+  * High Honour Roll in Digital Media Computing (05/2018)
+  * High Honour Roll in Research Project (05/2018)
+  * Summer Research Scholarship (11/2017)
+  * Half-Fee scholarship (05/2017)
 * Ph.D. Scholarship, University of Sydney
-  * **Engineering and Information Technologies Research Scholarship** (04/2018)
-  * **Postgraduate Research Supplementary Scholarship** (08/2018)
-  * **University of Sydney International Scholarship (USydIS)** (08/2018)
+  * Engineering and Information Technologies Research Scholarship (04/2018)
+  * **Postgraduate Research Supplementary Scholarship (08/2018) 
+  * University of Sydney International Scholarship (USydIS) (08/2018)
 
 Publications
 ======
@@ -73,12 +62,10 @@ Regular Reviewer for
   * Pattern Recognition
   * IEEE Journal of Biomedical and Health Informatics
   * Briefings in Bioinformatics
-  * PLOS One
-  * International Conference on Control, Automation, Robotics and Vision
  
 Industry Work experience
 ======
-* **Senior Staff Research Scientist** in Enflame (04/2022 – Present)
+* **Senior Staff Research Scientist** in Enflame Tech (04/2022 – Present)
   * Research in AI framework optimization and computer vision
 * **Senior Software Engineer** in iQiYi.com (11/2011 – 07/2016)
   * Responsible for architecture design and development of the cross-platform video streaming architecture; design and implement the universal video streaming model; in charge of technical design, cooperation and communication with third parties, like XiaoMi, Lenovo, Huawei, etc.
@@ -176,6 +163,7 @@ Skills
   * C++
   * C#
   * R
+  * Rust
 * Database
   * SQL Server
   * Firebird
