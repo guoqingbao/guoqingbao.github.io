@@ -51,12 +51,6 @@ Patents
 * A Deep Learning Operator Fusion Method, Device, Electronic Equipment, and Storage Medium (ZL202311559655.8, China), November 2023.
 * A Static Generation Method, Device, Equipment, and Medium for Reverse Computational Graphs of DNN Models (ZL202311576922.2, China), February 2024.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Work experience
 ======
 
@@ -97,6 +91,12 @@ Regular Reviewer for
   * IEEE Journal of Biomedical and Health Informatics
   * Briefings in Bioinformatics
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Open-source Projects
 ======
 * **Candle-GCU**
