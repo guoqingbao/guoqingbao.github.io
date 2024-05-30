@@ -12,11 +12,11 @@ redirect_from:
 
 About
 ======
-Since 2022, Dr. Bao has been a Senior Staff Researcher specializing in optimizing ML systems. In October 2022, he received the Shanghai Leading Talent (Overseas) award and the Shanghai Pujiang Program Award, leading a 2-year research project in artificial intelligence and heterogeneous computing. With extensive experience in university research and industry software engineering, he excels in rapidly prototyping and commercially implementing innovative ideas. He has six years of full-time research experience in computer vision, deep learning, and medical informatics, and nine years of industry experience as a senior software engineer in developing and designing large-scale commercial software projects.
+Since 2022, Dr. Bao has been a Senior Staff Researcher specializing in optimizing ML systems. He received the Shanghai Leading Talent (Overseas) and Shanghai Pujiang Program Awards in October 2022, leading a 2-year research project in artificial intelligence and heterogeneous computing. He has six years of full-time research experience in computer vision, deep learning, and medical informatics, and nine years of industry experience as a senior software engineer in developing and designing large-scale commercial software projects.
 
-From 2008 to 2016, he played a crucial role in the architecture design and development of a cross-platform video streaming system at iQiYi.com. His work included creating and implementing a universal video streaming system that remains in stable operation across hundreds of millions of devices, supporting over one billion daily video views and improving the platform's video view success rate by over 6% since 2014. He also pioneered the technical solution for streaming iQiYi's video and advertising content on third-party platforms, leading to a $300 million investment by Xiaomi in late 2014. Additionally, he developed a human-machine interaction and video-on-demand solution for early-stage Internet TV (Smart TV), which has been widely adopted by Smart TV and TVBox devices since 2013.
+From 2008 to 2016, he played a crucial role in designing and developing a cross-platform video streaming system at iQiYi.com. This system, supporting over one billion daily views, remains stable across hundreds of millions of devices and has improved the platform's video view success rate by over 6% since 2014. He also pioneered streaming solutions for third-party platforms, attracting a $300 million investment from Xiaomi in 2014. Additionally, he developed a human-machine interaction and video-on-demand solution for early-stage Smart TVs and TVBox devices, widely adopted since 2013.
 
-From 2016 to 2021, he achieved academic success as a Master's and PhD student at the University of Sydney, earning high honours, half-fee scholarships, summer research opportunities, and placement on the dean's list. He also received PhD and postgraduate supplementary scholarships. During this time, he published high-quality scientific papers in the fields of machine learning, pattern recognition, and translational medicine in prestigious journals such as Pattern Recognition, IEEE JBHI and Lancet family journals.
+From 2016 to 2021, he excelled as a Master's and PhD student at the University of Sydney, earning high honours, half-fee scholarships, summer research opportunities, and placement on the dean's list. He also received PhD and postgraduate supplementary scholarships. During this time, he published high-quality papers in machine learning, pattern recognition, and translational medicine in prestigious journals such as Pattern Recognition, IEEE JBHI, and Lancet family journals.
 
 Education
 ======
@@ -51,6 +51,12 @@ Patents
 * A Deep Learning Operator Fusion Method, Device, Electronic Equipment, and Storage Medium (ZL202311559655.8, China), November 2023.
 * A Static Generation Method, Device, Equipment, and Medium for Reverse Computational Graphs of DNN Models (ZL202311576922.2, China), February 2024.
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Work experience
 ======
 
@@ -90,12 +96,6 @@ Regular Reviewer for
   * Pattern Recognition
   * IEEE Journal of Biomedical and Health Informatics
   * Briefings in Bioinformatics
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Open-source Projects
 ======
