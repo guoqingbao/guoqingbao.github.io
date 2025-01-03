@@ -84,7 +84,7 @@ Open-source Projects
 ======
 * **UFront**
   * Unified MLIR compilation frontend (compile Pytorch, Tensorflow and ONNX models into MLIR TOSA and executable on different hardware)
-  * Code: [https://github.com/guoqingbao/Candle-GCU](https://github.com/guoqingbao/ufront)
+  * Code: [https://github.com/guoqingbao/ufront/](https://github.com/guoqingbao/ufront)
   * Paper: [https://dl.acm.org/doi/10.1145/3691620.3695002](https://dl.acm.org/doi/10.1145/3691620.3695002)
 * **Candle-vLLM**
   * A large language model inference framework entirely based on Rust (support GPU, Apple Silicon/Metal and Enflame GCU)
