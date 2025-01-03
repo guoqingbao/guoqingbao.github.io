@@ -82,6 +82,14 @@ Industry Work experience
   
 Open-source Projects
 ======
+* **UFront**
+  * Unified MLIR compilation frontend (compile Pytorch, Tensorflow and ONNX models into MLIR TOSA and executable on different hardware)
+  * Code: [https://github.com/guoqingbao/Candle-GCU](https://github.com/guoqingbao/ufront)
+  * Paper: [https://dl.acm.org/doi/10.1145/3691620.3695002](https://dl.acm.org/doi/10.1145/3691620.3695002)
+* **Candle-vLLM**
+  * A large language model inference framework entirely based on Rust (support GPU, Apple Silicon/Metal and Enflame GCU)
+  * (equivalent to vLLM in Python ecosystem) 
+  * Code: [https://github.com/EricLBuehler/candle-vllm](https://github.com/EricLBuehler/candle-vllm)
 * **COVID-MTL**
   * A multitask learning framework for diagnosis and severity assessment of COVID-19
   * Code: [https://github.com/guoqingbao/COVID-MTL](https://github.com/guoqingbao/COVID-MTL)
